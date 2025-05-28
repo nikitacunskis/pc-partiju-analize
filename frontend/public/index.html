@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+  <meta charset="UTF-8">
+  <title>Politisko Partiju Salīdzinājums</title>
+  <link rel="icon" href="data:,">
+  <style>
+    body {
+      margin: 0; font-family: Arial, sans-serif; display: flex; height: 100vh;
+      background: var(--bg); color: var(--text);
+    }
+    :root {
+      --bg: #ffffff;
+      --text: #000000;
+      --sidebar-bg: #f4f4f4;
+    }
+    body.dark {
+      --bg: #121212;
+      --text: #ffffff;
+      --sidebar-bg: #1e1e1e;
+    }
+    #sidebar {
+      width: 300px; background: var(--sidebar-bg); padding: 20px;
+      overflow-y: auto; border-right: 1px solid #ccc;
+    }
+    #sidebar button {
+      display: block; margin-bottom: 10px; width: 100%;
+      padding: 10px; text-align: left; cursor: pointer;
+    }
+    #content {
+      flex: 1; padding: 20px; overflow-y: auto;
+    }
+    .subject-block {
+      margin: 10px 0; padding: 10px; border-radius: 5px;
+      background: var(--sidebar-bg);
+    }
+    canvas { max-width: 100%; margin-top: 20px; }
+    .match-legend {
+      margin-top: 20px; font-size: 14px; line-height: 1.5;
+    }
+    .flex-view { display: flex; gap: 20px; }
+    .flex-view .column {
+      flex: 1; border: 1px solid #ccc; padding: 10px;
+      background: var(--sidebar-bg); overflow-x: auto;
+    }
+    .view-toggle, .tools, a {
+      margin-bottom: 10px; display: flex; gap: 10px; flex-wrap: wrap;
+    }
+    .view-toggle button, .tools button, a {
+      padding: 8px 12px; cursor: pointer;
+    }
+    button, a {
+      background-color: #eee;
+      color: #000;
+      border: 1px solid #ccc;
+      transition: background 0.2s, color 0.2s, border 0.2s;
+    }
+
+    button:hover, a:hover {
+      background-color: #ddd;
+    }
+
+    body.dark button, body.dark a {
+      background-color: #333;
+      color: #fff;
+      border: 1px solid #555;
+    }
+
+    body.dark button:hover, body.dark a:hover {
+      background-color: #444;
+      border-color: #666;
+    }
+  </style>
+</head>
+<body>
+
+<div id="sidebar">
+  <a href="https://www.pilsetacilvekiem.lv">Pilsēta Cilvēkiem</a>
+  <a href="https://x.com/NikitaCunskis/">Nikita Cunskis</a>
+  <a href="https://www.pilsetacilvekiem.lv/privatuma-politika/">Privātuma politika</a>
+  <button onclick="toggleDarkMode()">🌓 Tumšais režīms</button>
+  <h3>Partijas</h3>
+  <div id="partyList"></div>
+</div>
+
+<div id="content">
+  <h2>Izvēlieties partiju</h2>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+
+  trackInteraction('page_loaded', {});
+  const matchDescriptions = {
+    "Perfect match": "✅ Sakrīt tēma, problēma un risinājums.",
+    "Partly match": "☑️ Sakrīt tēma un problēma, bet cits (nesaderīgs) risinājums.",
+    "Neutral": "❔ Tēma nav atrasta programmā \"Pilsēta Cilvēkiem\".",
+    "Partly mismatch": "⚠️ Sakrīt tēma un problēma, bet risinājums pretrunā ar \"Pilsēta Cilvēkiem\".",
+    "Full mismatch": "❌ Sakrīt tēma, bet problēma pretrunā ar \"Pilsēta Cilvēkiem\"."
+  };
+
+  const matchColors = {
+    "Perfect match": "#4caf50",
+    "Partly match": "#ffb74d",
+    "Neutral": "#9e9e9e",
+    "Partly mismatch": "#ff9800",
+    "Full mismatch": "#f44336"
+  };
+
+  const partyNames = [
+    'Partija "Gods kalpot Rīgai", Zaļo un Zemnieku savienība',
+    '"Saskaņa" sociāldemokrātiskā partija',
+    'Politiskā partija "Pašcieņa", "Tauta. Zeme. Valstiskums."',
+    'Latvijas Sociālistiskā partija',
+    'Latvijas Atdzimšanas partija',
+    'Jaunā VIENOTĪBA',
+    '"Centra Partija"',
+    '"PROGRESĪVIE"',
+    'LATVIJA PIRMAJĀ VIETĀ',
+    '"Latvijas attīstībai"',
+    'JKP Jaunā konservatīvā partija',
+    '"SUVERĒNĀ VARA", APVIENĪBA JAUNLATVIEŠI',
+    'Nacionālā apvienība "Visu Latvijai!"-"Tēvzemei un Brīvībai/LNNK"',
+    '"APVIENOTAIS SARAKSTS - Latvijas Zaļā partija, Latvijas Reģionu Apvienība, Liepājas partija"',
+    '"Platforma 21"',
+    'Politiskā partija "Stabilitātei!"'
+  ];
+
+  const partyListDiv = document.getElementById('partyList');
+  const contentDiv = document.getElementById('content');
+  let showNeutral = false;
+  let lastParty = null;
+
+  partyNames.forEach((name, i) => {
+    const btn = document.createElement('button');
+    btn.textContent = `${i + 1}. ${name}`;
+    btn.onclick = () => renderParty(i + 1, name);
+    partyListDiv.appendChild(btn);
+  });
+
+  function renderParty(num, name) {
+    lastParty = { num, name };
+    loadComparison(num);
+  }
+
+  function renderViewHeader(partyNum, partyName) {
+    return `
+      <div class="view-toggle">
+        <button onclick="loadComparison(${partyNum})">📊 Salīdzinājums</button>
+        <button onclick="loadProgramText(${partyNum})">📄 Programma</button>
+        <button onclick="loadNormalizedComparison(${partyNum})">⚖️ Normalizētais salīdzinājums</button>
+      </div>
+    `;
+  }
+
+  function toggleDarkMode() {
+    document.body.classList.toggle("dark");
+    trackInteraction('dark_mode', { });
+  }
+
+  function toggleNeutral() {
+    trackInteraction('neutral_load', {  });
+    showNeutral = !showNeutral;
+    document.getElementById('toggleNeutral').textContent =
+      showNeutral ? "Slēpt 'Neutral' tēmas" : "Parādīt arī 'Neutral' tēmas";
+    if (window.lastPartyData && window.currentView === 'comparison') renderDetails(window.lastPartyData);
+  }
+
+  function downloadHTML() {
+    trackInteraction('download_html', { partyId: i + 1, partyName: name });
+    const blob = new Blob([document.documentElement.outerHTML], {type: 'text/html'});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'partijas_salidzinajums.html';
+    a.click();
+    URL.revokeObjectURL(url);
+  }
+
+  async function loadComparison(partyNum) {
+    let partyName = partyNames[partyNum - 1];
+    trackInteraction('party_comparison', { partyNum: partyNum, partyName: partyName });
+    const res = await fetch(`data/result/party_${partyNum}_result.json`);
+    const data = await res.json();
+    data.forEach(item => {
+      item.explanation = item.explanation
+        .replace(/Program A/g, "Pilsēta Cilvēkiem")
+        .replace(/Program B/g, partyName);
+    });
+
+    window.lastPartyData = data;
+    window.currentView = 'comparison';
+
+    contentDiv.innerHTML = `
+      <h2>${partyName}</h2>
+      ${renderViewHeader(partyNum, partyName)}
+      <canvas id="chart" height="100"></canvas>
+      <div class="match-legend">
+        ${Object.entries(matchDescriptions).map(([key, desc]) =>
+          `<div><strong style="color:${matchColors[key]}">${key}:</strong> ${desc}</div>`).join('')}
+      </div>
+      <button id="toggleNeutral" onclick="toggleNeutral()">Parādīt arī 'Neutral' tēmas</button>
+      <button onclick="loadMethodology()">📚 Metodoloģija</button>
+      <div id="details"></div>
+    `;
+    renderChart(data);
+    renderDetails(data);
+  }
+
+  async function loadProgramText(partyNum) {
+    const partyName = partyNames[partyNum - 1];
+    trackInteraction('party_program', { partyNum: partyNum, partyName: partyName });
+    const res = await fetch(`data/program/party_${partyNum}.txt`);
+    const text = await res.text();
+    window.currentView = 'program';
+    contentDiv.innerHTML = `
+      <h2>${partyName} - Programma</h2>
+      ${renderViewHeader(partyNum, partyName)}
+      <pre style="white-space: pre-wrap; background: var(--sidebar-bg); padding: 10px; border: 1px solid #ccc;">${text}</pre>
+    `;
+  }
+
+  async function loadNormalizedComparison(partyNum) {
+    const partyName = partyNames[partyNum - 1];
+    trackInteraction('party_nomralized_comparison', { partyNum: partyNum, partyName: partyName });
+    const [ideal, normalized] = await Promise.all([
+      fetch('data/normalized/ideal.json').then(r => r.json()),
+      fetch(`data/normalized/party_${partyNum}_normalized.json`).then(r => r.json())
+    ]);
+
+    window.currentView = 'normalized';
+
+    const renderList = arr => arr.map(i => `
+      <div class="subject-block" style="border: 1px solid #ccc;">
+        <strong>Tēma:</strong> ${i.subject}<br>
+        <strong>Problēma:</strong> ${i.problem}<br>
+        <strong>Risinājums:</strong> ${i.solution}<br>
+      </div>
+    `).join('');
+
+    contentDiv.innerHTML = `
+      <h2>${partyName} - Normalizēts salīdzinājums</h2>
+      ${renderViewHeader(partyNum, partyName)}
+      <div class="flex-view">
+        <div class="column"><h3>Pilsēta Cilvēkiem</h3>${renderList(ideal)}</div>
+        <div class="column"><h3>${partyName}</h3>${renderList(normalized)}</div>
+      </div>
+    `;
+  }
+
+  function loadMethodology() {
+    trackInteraction('methodology',{});
+    window.currentView = 'methodology';
+    contentDiv.innerHTML = `
+      <h2>📚 Metodoloģija</h2>
+      ${renderViewHeader(lastParty?.num || 1, lastParty?.name || '')}
+      <img src="data/methodology.jpeg" alt="Metodoloģijas skaidrojums" style="max-width:100%; border:1px solid #ccc;">
+      <div style="margin-top:20px;">
+        <p><strong>1. Normalizēšana:</strong> programmas teksts tiek sadalīts struktūrēti. Programma tiek sadalīta skartajās tēmās, problēmas aprakstā un piedāvatajā risinājumā. Tiek noņemts emocionālais apraksts.</p>
+        <p><strong>2. Salīdzināšana:</strong> dati tiek salīdzināti pēc tēmas, problēmas un risinājuma.</p>
+        <p>"Perfect match": "✅ Sakrīt tēma, problēma un risinājums."</p>
+        <p>"Partly match": "☑️ Sakrīt tēma un problēma, bet cits (nesaderīgs) risinājums."</p>
+        <p>"Neutral": "❔ Tēma nav atrasta programmā \"Pilsēta Cilvēkiem\"."</p>
+        <p>"Partly mismatch": "⚠️ Sakrīt tēma un problēma, bet risinājums pretrunā ar \"Pilsēta Cilvēkiem\"."</p>
+        <p>"Full mismatch": "❌ Sakrīt tēma, bet problēma pretrunā ar \"Pilsēta Cilvēkiem\"</p>
+        <p><strong>3. Vizualizācija:</strong> rezultāti tiek attēloti grafikā un aprakstos.</p>
+        <p><strong>Izmantotie rīki:</strong></p>
+        <ul>
+          <li>Python</li>
+          <li>JSON</li>
+          <li>Manus</li>
+        </ul>
+        <p><strong>Avoti:</strong></p>
+        <ul>
+          <li>CVK <a href="https://dati.cvk.lv/PV2025/kandidatu-saraksti/riga/">2025. gada pašvaldības domes vēlēšanas</a></li>
+        </ul>
+      </div>
+    `;
+  }
+
+  function renderChart(data) {
+    const ctx = document.getElementById('chart').getContext('2d');
+    const total = data.length;
+    const matchCounts = Object.keys(matchDescriptions).reduce((acc, key) => {
+      acc[key] = data.filter(item => item.match === key).length;
+      return acc;
+    }, {});
+
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: Object.keys(matchCounts),
+        datasets: [{
+          label: "Sakritību sadalījums",
+          data: Object.values(matchCounts).map(count => (count / total * 100).toFixed(1)),
+          backgroundColor: Object.keys(matchCounts).map(key => matchColors[key])
+        }]
+      },
+      options: {
+        indexAxis: 'y',
+        plugins: {
+          tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${ctx.raw}%` } },
+          legend: { display: false }
+        },
+        scales: {
+          x: { max: 100, title: { display: true, text: 'Procenti (%)' } },
+          y: { ticks: { autoSkip: false } }
+        }
+      }
+    });
+  }
+
+  function renderDetails(data) {
+    document.getElementById('details').innerHTML = data
+      .filter(item => showNeutral || item.match !== "Neutral")
+      .map(item => {
+        const borderColor = matchColors[item.match] || "#ccc";
+        const borderWidth = item.match === "Neutral" ? "1px" : "2px";
+        return `
+          <div class="subject-block" style="border: ${borderWidth} solid ${borderColor};">
+            <strong>Tēma:</strong> ${item.subject}<br>
+            <strong>Problēma:</strong> ${item.problem}<br>
+            <strong>Risinājums:</strong> ${item.solution}<br>
+            <strong>Sakritības veids:</strong> ${item.match}<br>
+            <strong>Skaidrojums:</strong> ${item.explanation}
+          </div>
+        `;
+      }).join('');
+  }
+  
+  function getApiBaseUrl() {
+    const hostname = window.location.hostname;
+
+    if (hostname === 'localhost' || hostname === '127.0.0.1') {
+      return 'http://localhost:8000';
+    }
+
+    return 'https://velesanas2025.pilsetacilvekiem.lv';
+  }
+
+  function trackInteraction(event, details = {}) {
+    fetch(`${getApiBaseUrl()}/api/track`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        sessionId: getSessionId(),
+        event,
+        details,
+        time: new Date().toISOString()
+      })
+    });
+  }
+
+  function getSessionId() {
+    if (!localStorage.sessionId) {
+      localStorage.sessionId = 'sess_' + Math.random().toString(36).substring(2);
+    }
+    return localStorage.sessionId;
+  }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Latviešu valoda un kultūra",
+    "problem": "Latviešu valodas un latviskās kultūras klātbūtne Rīgā nav pietiekami stiprināta.",
+    "solution": "Stiprināt latviešu valodas lietojumu skolās un sabiedrībā, organizēt kultūras pasākumus, atzīmēt svētkus un veicināt latvisku vidi pilsētā."
+  },
+  {
+    "subject": "Ekonomiskā attīstība",
+    "problem": "Rīgā nepieciešams veicināt ekonomisko izaugsmi, investīcijas un samazināt birokrātiju.",
+    "solution": "Piesaistīt investīcijas, atbalstīt uzņēmējdarbību, digitalizēt pakalpojumus, izmantot mākslīgo intelektu, veidot taisnīgu nodokļu un finansēšanas modeli, veicināt reemigrāciju."
+  },
+  {
+    "subject": "Izglītība",
+    "problem": "Nepietiekama speciālistu piesaiste, novecojusi infrastruktūra un nepietiekamas iespējas bērnu talantu attīstībai.",
+    "solution": "Piesaistīt speciālistus, modernizēt skolu kabinetus, attīstīt izglītības piedāvājumu apkaimēs, atbalstīt bērnu un jauniešu talantu pilnveidošanu."
+  },
+  {
+    "subject": "Mājokļi un ģimenes atbalsts",
+    "problem": "Nepietiekams mājokļu piedāvājums un infrastruktūra ģimenēm ar bērniem.",
+    "solution": "Attīstīt mājokļu projektus, līdzfinansēt renovāciju, uzlabot rotaļu un sporta laukumus, piedāvāt atlaides daudzbērnu ģimenēm sabiedriskajā transportā."
+  },
+  {
+    "subject": "Drošība",
+    "problem": "Nelegālā imigrācija, azartspēļu izplatība un nepietiekama civilā aizsardzība apdraud pilsētas drošību.",
+    "solution": "Izskaust nelegālo imigrāciju un azartspēles, stiprināt pašvaldības policiju un civilās aizsardzības sistēmu, izveidot videonovērošanas centru."
+  },
+  {
+    "subject": "Sabiedriskais transports",
+    "problem": "Nepietiekama sabiedriskā transporta pieejamība un savienojamība ar pilsētas apkaimēm.",
+    "solution": "Attīstīt transporta savienojumus ar apkaimēm, stacijām un lidostu, veicināt viedā transporta lietošanu, ieviest vienotu biļeti un attīstīt ūdenstransportu."
+  },
+  {
+    "subject": "Ielu infrastruktūra un mobilitāte",
+    "problem": "Nesakārtota ielu infrastruktūra un nepietiekama vide velosipēdistiem un gājējiem.",
+    "solution": "Uzlabot transporta mezglus, paplašināt cietā seguma ielas, remontēt ielas un tiltus, attīstīt veloceļu tīklu, uzlabot ielu un ietvju tīrīšanu."
+  },
+  {
+    "subject": "Apkaimju attīstība",
+    "problem": "Apkaimes ir nevienmērīgi attīstītas, trūkst sabiedriskās un atpūtas infrastruktūras.",
+    "solution": "Attīstīt novārtā atstātas teritorijas, veidot sporta un atpūtas infrastruktūru, ieklausīties apkaimju biedrībās, veicināt lokālpatriotismu."
+  },
+  {
+    "subject": "Sociālie pakalpojumi",
+    "problem": "Nepietiekama sociālo pakalpojumu pieejamība bērniem, senioriem un cilvēkiem ar invaliditāti.",
+    "solution": "Nodrošināt kvalitatīvus pakalpojumus, paplašināt ģimeniskai videi pietuvinātus pakalpojumus, uzlabot vides pieejamību un ierobežot priekšrocības Krievijas pilsoņiem."
+  },
+  {
+    "subject": "Vide un labiekārtošana",
+    "problem": "Nepietiekama atkritumu apsaimniekošana, zaļās zonas un pilsētvides apgaismojums.",
+    "solution": "Palielināt atkritumu konteineru skaitu, ieviest kompostēšanas laukumus, stādīt apstādījumus, labiekārtot peldvietas un izgaismot pilsētu."
+  }
+]

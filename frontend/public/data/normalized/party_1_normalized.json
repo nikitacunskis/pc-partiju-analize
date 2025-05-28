@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Infrastruktūra un transports",
+    "problem": "Iekšpagalmi, tilti, krustojumi un sabiedriskais transports nav pietiekami attīstīti un droši.",
+    "solution": "Sakārtot iekšpagalmus, atjaunot tiltus, izbūvēt divlīmeņu krustojumu, paplašināt sabiedriskā transporta pieejamību, ieviest e-skūteru ātruma ierobežojumus, uzlabot ietves un pārejas, labiekārtot ūdensmalas un peldvietas."
+  },
+  {
+    "subject": "Izglītība",
+    "problem": "Nepietiekams atbalsts pedagogiem, novecojusi izglītības vide un nepietiekamas iespējas bērniem ar īpašām vajadzībām.",
+    "solution": "Palielināt atbalstu skolotājiem, nodrošināt apmācības un motivāciju, piedāvāt bezmaksas ēdināšanu, nodrošināt MI rīkus un atbalsta speciālistus, attīstīt STEM priekšmetus, iekļaujošu izglītību un ārpus skolas aktivitātes."
+  },
+  {
+    "subject": "Sports un kultūra",
+    "problem": "Nepietiekama sporta un kultūras infrastruktūra dažādos Rīgas rajonos.",
+    "solution": "Izveidot jaunas sporta halles, attīstīt futbola stadionu Lucavsalā, atvērt Kongresu namu līdz pārbūvei."
+  },
+  {
+    "subject": "Sociālā aizsardzība un veselība",
+    "problem": "Nepietiekams atbalsts ģimenēm, senioriem, cilvēkiem ar īpašām vajadzībām un veselības aprūpei.",
+    "solution": "Ievies bērna piedzimšanas pabalstu, izveido asistentu datubāzi, palielini sociālā atbalsta pieejamību, nodrošini veselības pakalpojumus bērniem un senioriem, izveido kapelānu dienestu un atbalstu audžuģimenēm."
+  },
+  {
+    "subject": "Mājokļi",
+    "problem": "Daudzdzīvokļu māju slikts tehniskais stāvoklis un pašvaldības speciālistu mājokļu nepieejamība.",
+    "solution": "Nodrošināt līdzfinansējumu māju atjaunošanai un attīstīt īres namu programmu speciālistiem."
+  },
+  {
+    "subject": "Drošība un civilā aizsardzība",
+    "problem": "Nepietiekama operatīvā informācija, zema drošība pie skolām, nepietiekama civilā aizsardzība.",
+    "solution": "Atjaunot ziņošanas aplikāciju, veidot kopīgas patruļas, organizēt civilās aizsardzības apmācības un līdzfinansēt patvertņu izveidi, piešķirt NĪN atlaides zemessargiem un uzlabot imigrācijas kontroli."
+  },
+  {
+    "subject": "Vide un ilgtspēja",
+    "problem": "Nepietiekama atkritumu šķirošana, gaisa, trokšņu un gaismas piesārņojums, mazdārziņu nepieejamība.",
+    "solution": "Palielināt šķirošanas punktu skaitu, ierīkot pazemes šķirošanas vietas, mazināt piesārņojumu un nodrošināt mazdārziņus iedzīvotājiem."
+  },
+  {
+    "subject": "Ekonomika, inovācijas un tūrisms",
+    "problem": "Zema konkurētspēja, ierobežota uzņēmējdarbības vide, nepietiekama inovāciju un tūrisma attīstība.",
+    "solution": "Attīstīt Rīgu kā tūrisma galvaspilsētu, atjaunot prāmju satiksmi, sadarboties ar uzņēmējiem un NVO, atbalstīt jauniešu uzņēmējdarbību, piešķirt telpas jaunuzņēmumiem, izveidot atvieglojumu platformu, atcelt nodevas terasēm, piesaistīt investīcijas STEM centram, nodrošināt efektīvu pašvaldības līdzekļu pārvaldību un atbalstīt pasākumu tūrismu."
+  },
+  {
+    "subject": "Pārvaldība un iedzīvotāju līdzdalība",
+    "problem": "Sarežģīti lēmumu pieņemšanas procesi un nepietiekama iedzīvotāju iesaiste.",
+    "solution": "Ieviest 'konsultē un atbalsti' principu, saīsināt centra plāna izstrādes termiņu, katru gadu ļaut iedzīvotājiem lemt par ieguldījumiem un uzlabot pašvaldības īpašumu apsaimniekošanu."
+  }
+]

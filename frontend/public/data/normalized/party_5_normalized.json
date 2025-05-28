@@ -1,0 +1,67 @@
+[
+    {
+      "subject": "Demokrātiska pārvaldība Rīgā",
+      "problem": "Rīgas pašvaldībā trūkst reālas iedzīvotāju varas un demokrātiskas pārvaldības struktūras.",
+      "solution": "Ievieš Rīgas Satversmi, ko pieņem referendumā; izveido 10-20 mazās mērijas, kuru pārstāvji veido Rīgas valdību; ievēlē ģenerālmēru; atjauno policijas prefekta amatu katrā mērijā."
+    },
+    {
+      "subject": "Rūpniecības attīstība",
+      "problem": "Rūpniecība Rīgā ir vāji attīstīta un neatbilst mūsdienu vides un cilvēktiesību prasībām.",
+      "solution": "Veicina rūpniecības atdzimšanu ar uzsvaru uz augstajām tehnoloģijām, ievērojot vides un cilvēktiesību principus."
+    },
+    {
+      "subject": "Rīdzinieku priekšrocības ekonomikā",
+      "problem": "Rīdziniekiem trūkst priekšrocību vietējā ekonomikā salīdzinājumā ar ārvalstu dalībniekiem.",
+      "solution": "Prioritāte Rīdziniekiem darba, īpašumu, iepirkumu un darījumu piedāvājumos; atbalsta arodbiedrības."
+    },
+    {
+      "subject": "Civilā un militārā aizsardzība",
+      "problem": "Nepietiekama sagatavotība krīzēm un militāriem apdraudējumiem.",
+      "solution": "Ievieš 10 dienu militārās apmācības kursus, attīsta pazemes un virszemes aizsardzības infrastruktūru, tostarp bunkurus, patvertnes un pretgaisa sistēmas."
+    },
+    {
+      "subject": "Veselības aprūpes sistēma",
+      "problem": "Nepietiekama medicīnas infrastruktūra un finansējums.",
+      "solution": "Izveido modernu medicīnas sistēmu kā biržā kotētu akciju sabiedrību, kur Rīgai pieder kontrolpakete."
+    },
+    {
+      "subject": "Finanšu iestādes Rīgā",
+      "problem": "Rīgai trūkst neatkarīgu finanšu institūciju.",
+      "solution": "Izveido Rīgas Banku un apdrošināšanas sabiedrību ar pašvaldības līdzdalību."
+    },
+    {
+      "subject": "Augstākā izglītība",
+      "problem": "Nepietiekama Rīgas iesaiste augstākajā izglītībā un pētniecībā.",
+      "solution": "Nodibina Rīgas Universitāti un Rīgas Tehnoloģisko Institūtu."
+    },
+    {
+      "subject": "Sports, kultūra un vide",
+      "problem": "Nepietiekamas iespējas sportā, kultūrā un vides kvalitātē.",
+      "solution": "Attīsta sporta infrastruktūru un klubus; veido mākslas kvartālu; atbalsta kultūras projektus un kino industriju; uzlabo gaisa, ūdens un trokšņu apstākļus."
+    },
+    {
+      "subject": "Inovatīva apdzīvota vide",
+      "problem": "Rīgā trūkst mūsdienīgu un pašpietiekamu dzīvesvietu jaunām ģimenēm un radošiem cilvēkiem.",
+      "solution": "Izveido 'Saules pilsētu' – eko-ciematu ar uzsvaru uz saules enerģiju, viedajām tehnoloģijām un pašpietiekamību."
+    },
+    {
+      "subject": "Satiksmes attīstība",
+      "problem": "Nepietiekama uzmanība alternatīvajiem transporta veidiem.",
+      "solution": "Attīsta aviāciju (mazās lidmašīnas, helikopterus), ūdens satiksmi un dzīvi uz ūdens."
+    },
+    {
+      "subject": "Pieminekļu un kultūrvēsturisku objektu attīstība",
+      "problem": "Trūkst simbolisku un nacionāli nozīmīgu objektu pilsētvidē.",
+      "solution": "Izveido Nameja pieminekli un Varoņu aleju līdz Brīvības piemineklim."
+    },
+    {
+      "subject": "Birokrātijas samazināšana",
+      "problem": "Pārmērīga birokrātija kavē attīstību un normālu dzīvi Rīgā.",
+      "solution": "Izveido BAILA aģentūru ar plašām pilnvarām izvērtēt kapitālsabiedrību darbību un samazināt normatīvo slogu."
+    },
+    {
+      "subject": "Iedzīvotāju vara un demokrātiska līdzdalība",
+      "problem": "Iedzīvotājiem nav reālas iespējas tieši ietekmēt pašvaldības vadību.",
+      "solution": "Pēc ievēlēšanas pārstāvis noliek mandātu, dodot iespēju visiem Rīdziniekiem kandidēt ārkārtas vēlēšanās; pat ar 5% balsu tiek iegūta 'zelta akcija' fragmentētā domē."
+    }
+  ]

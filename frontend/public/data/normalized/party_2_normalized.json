@@ -1,0 +1,47 @@
+[
+    {
+      "subject": "Pilsētas attīstība",
+      "problem": "Rīga zaudējusi vadošo lomu Baltijas reģionā investīciju, sociālās politikas un tūrisma jomās, ko izraisījis nacionālisms, provinciālisms un nekompetence.",
+      "solution": "Atjaunot pilsētas attīstību, balstoties uz daudzveidību, sociālo atbalstu un stratēģisku pārvaldību."
+    },
+    {
+      "subject": "Sociālais atbalsts un ģimenes labklājība",
+      "problem": "Nepietiekams atbalsts ģimenēm ar bērniem, pensionāriem un maznodrošinātajiem.",
+      "solution": "Ieviesīs 10 000 eiro pabalstu bērna piedzimšanas gadījumā, apmaksātas pusdienas līdz 12. klasei, līdz 200 eiro medicīnas kompensāciju, paplašinās sociālos atbalsta pasākumus."
+    },
+    {
+      "subject": "Vide un drošība",
+      "problem": "Nepietiekami uzturēta vide un drošība Rīgas mikrorajonos.",
+      "solution": "Renovēs parkus, izbūvēs rotaļlaukumus un sporta laukumus, labiekārtos iekšpagalmus, uzstādīs videonovērošanas kameras un pastiprinās pašvaldības policijas darbu."
+    },
+    {
+      "subject": "Mājokļu attīstība",
+      "problem": "Novecojuši dzīvojamie nami un nepietiekams pašvaldības mājokļu fonds.",
+      "solution": "Renovēs daudzstāvu namus un liftus ar ES līdzfinansējumu, paplašinās pašvaldības mājokļu fondu un izīrēs tos nekustamā īpašuma tirgū."
+    },
+    {
+      "subject": "Satiksmes infrastruktūra",
+      "problem": "Slikts ceļu stāvoklis un neefektīva satiksmes organizācija.",
+      "solution": "Remontēs tiltus un ielas (ar publisku plānu), prioritāri sakārtos mikrorajonu ielas, pārskatīs satiksmes organizāciju, uzlabos drošību un neieviesīs maksas iebraukšanu centrā."
+    },
+    {
+      "subject": "Digitalizācija un modernizācija",
+      "problem": "Nepietiekama pārvaldības efektivitāte un iedzīvotāju iesaiste digitālajos procesos.",
+      "solution": "Attīstīs e-pakalpojumus, ieviest viedās mobilitātes risinājumus un krīzes vadības digitālās platformas."
+    },
+    {
+      "subject": "Tūrisms un kultūras pasākumi",
+      "problem": "Rīga zaudējusi tūrisma centra statusu un pasākumu dinamiku.",
+      "solution": "Atjaunos lielos svētkus (sākot ar Līgo 2025), sadarbošoties ar tūrisma nozari, reklamēs pilsētu ārvalstīs."
+    },
+    {
+      "subject": "Valodas un izglītība",
+      "problem": "Nepietiekama piekļuve latviešu valodas apguvei un daudzvalodu informācijai.",
+      "solution": "Trīskāršos finansējumu latviešu valodas kursiem, nodrošinās pašvaldības pakalpojumus trīs valodās, mutisko tulkojumu pēc vajadzības, finansēs interešu izglītību dzimtās valodas un kultūras jomā."
+    },
+    {
+      "subject": "Pieminekļi un ielu nosaukumi",
+      "problem": "Ideoloģiski motivētas izmaiņas pilsētvidē.",
+      "solution": "Ieviesīs moratoriju ielu pārdēvēšanai un pieminekļu demontāžai."
+    }
+  ]

@@ -1,0 +1,72 @@
+[
+    {
+      "subject": "Pilsētas attīstība un pārvaldība",
+      "problem": "Pašvaldības pārvaldība ir neefektīva, birokrātiska un korupcijas skarta.",
+      "solution": "Ieviest profesionālu pilsētas pārvaldību, samazināt birokrātiju, nodrošināt caurspīdīgumu un atklātību, veikt auditus un izskaust korupciju.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pilsētas pārvaldības jautājumiem."
+    },
+    {
+      "subject": "Ekonomiskā attīstība",
+      "problem": "Rīga zaudē konkurētspēju, trūkst investīciju un darbavietu.",
+      "solution": "Piesaistīt investīcijas, atbalstīt uzņēmējdarbību, samazināt birokrātiju, attīstīt tūrismu un radošās industrijas.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis ekonomiskās attīstības jautājumiem."
+    },
+    {
+      "subject": "Izglītība un kultūra",
+      "problem": "Nepietiekams atbalsts izglītībai, kultūrai un sportam.",
+      "solution": "Palielināt finansējumu izglītībai, kultūrai un sportam, atbalstīt talantus, nodrošināt bezmaksas interešu izglītību un sporta nodarbības.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis izglītības un kultūras jautājumiem."
+    },
+    {
+      "subject": "Sociālā aizsardzība",
+      "problem": "Nepietiekams atbalsts maznodrošinātajiem, senioriem un ģimenēm ar bērniem.",
+      "solution": "Palielināt sociālo atbalstu, nodrošināt bezmaksas sabiedrisko transportu, veselības aprūpi un mājokļu pieejamību.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sociālās aizsardzības jautājumiem."
+    },
+    {
+      "subject": "Mājokļu politika",
+      "problem": "Nepietiekams mājokļu piedāvājums un augsti īres maksājumi.",
+      "solution": "Attīstīt pašvaldības īres mājokļu programmu, atbalstīt daudzdzīvokļu māju renovāciju un energoefektivitāti.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis mājokļu politikas jautājumiem."
+    },
+    {
+      "subject": "Pilsētvide un infrastruktūra",
+      "problem": "Nesakārtota pilsētvide, slikts ielu un ietvju stāvoklis, nepietiekama vides pieejamība.",
+      "solution": "Uzlabot ielu un ietvju stāvokli, nodrošināt vides pieejamību, attīstīt zaļās zonas un publisko ārtelpu.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Maģistrālo ielu pievilcība un pieejamība' un 'Ietves un veloinfrastruktūra apkaimēs' - problēma (slikts ielu un ietvju stāvoklis, nepietiekama vides pieejamība) ir līdzīga, un risinājums (uzlabot ielu un ietvju stāvokli, nodrošināt vides pieejamību) daļēji saskan, bet Program B nefokusējas uz veloinfrastruktūras attīstību un satiksmes intensitātes samazināšanu, kas ir Program A prioritātes."
+    },
+    {
+      "subject": "Sabiedriskais transports",
+      "problem": "Nepietiekama sabiedriskā transporta pieejamība un kvalitāte.",
+      "solution": "Attīstīt sabiedriskā transporta tīklu, uzlabot pakalpojumu kvalitāti, ieviest vienoto biļeti un bezmaksas transportu noteiktām iedzīvotāju grupām.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Sabiedriskais transports' - problēma (nepietiekama pieejamība un kvalitāte) ir līdzīga, un risinājums (attīstīt transporta tīklu, ieviest vienoto biļeti) daļēji saskan ar Program A, bet Program B nefokusējas uz metrobusa projektu un sabiedriskā transporta joslām, kas ir Program A prioritātes."
+    },
+    {
+      "subject": "Vides aizsardzība",
+      "problem": "Nepietiekama vides aizsardzība un zaļo zonu attīstība.",
+      "solution": "Attīstīt zaļās zonas, uzlabot atkritumu apsaimniekošanu, samazināt gaisa piesārņojumu un trokšņu līmeni.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Maģistrālo ielu pievilcība un pieejamība' - problēma (nepietiekama zaļo zonu attīstība) ir līdzīga, un risinājums (attīstīt zaļās zonas, samazināt gaisa piesārņojumu) daļēji saskan ar Program A minēto apstādījumu izbūvi un satiksmes intensitātes samazināšanu."
+    },
+    {
+      "subject": "Drošība",
+      "problem": "Nepietiekama drošība pilsētā un civilās aizsardzības sistēma.",
+      "solution": "Stiprināt pašvaldības policiju, uzlabot videonovērošanas sistēmu, attīstīt civilās aizsardzības infrastruktūru.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis drošības jautājumiem."
+    },
+    {
+      "subject": "Veselības aprūpe",
+      "problem": "Nepietiekama veselības aprūpes pieejamība un kvalitāte.",
+      "solution": "Attīstīt pašvaldības veselības aprūpes iestādes, nodrošināt bezmaksas veselības aprūpi noteiktām iedzīvotāju grupām.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis veselības aprūpes jautājumiem."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+      "subject": "Pilsētas attīstība",
+      "problem": "Rīga zaudējusi vadošo lomu Baltijas reģionā investīciju, sociālās politikas un tūrisma jomās, ko izraisījis nacionālisms, provinciālisms un nekompetence.",
+      "solution": "Atjaunot pilsētas attīstību, balstoties uz daudzveidību, sociālo atbalstu un stratēģisku pārvaldību.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav tieši atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis vispārēju pilsētas attīstību un sociālo politiku."
+    },
+    {
+      "subject": "Sociālais atbalsts un ģimenes labklājība",
+      "problem": "Nepietiekams atbalsts ģimenēm ar bērniem, pensionāriem un maznodrošinātajiem.",
+      "solution": "Ieviesīs 10 000 eiro pabalstu bērna piedzimšanas gadījumā, apmaksātas pusdienas līdz 12. klasei, līdz 200 eiro medicīnas kompensāciju, paplašinās sociālos atbalsta pasākumus.",
+      "match": "Neutral",
+      "explanation": "Program A nefokusējas uz sociālā atbalsta jautājumiem, tāpēc šī tēma nav atrodama Program A."
+    },
+    {
+      "subject": "Vide un drošība",
+      "problem": "Nepietiekami uzturēta vide un drošība Rīgas mikrorajonos.",
+      "solution": "Renovēs parkus, izbūvēs rotaļlaukumus un sporta laukumus, labiekārtos iekšpagalmus, uzstādīs videonovērošanas kameras un pastiprinās pašvaldības policijas darbu.",
+      "match": "Neutral",
+      "explanation": "Program A nefokusējas uz vides labiekārtošanu un drošības jautājumiem mikrorajonos, tāpēc šī tēma nav atrodama Program A."
+    },
+    {
+      "subject": "Mājokļu attīstība",
+      "problem": "Novecojuši dzīvojamie nami un nepietiekams pašvaldības mājokļu fonds.",
+      "solution": "Renovēs daudzstāvu namus un liftus ar ES līdzfinansējumu, paplašinās pašvaldības mājokļu fondu un izīrēs tos nekustamā īpašuma tirgū.",
+      "match": "Neutral",
+      "explanation": "Program A nefokusējas uz mājokļu attīstības jautājumiem, tāpēc šī tēma nav atrodama Program A."
+    },
+    {
+      "subject": "Satiksmes infrastruktūra",
+      "problem": "Slikts ceļu stāvoklis un neefektīva satiksmes organizācija.",
+      "solution": "Remontēs tiltus un ielas (ar publisku plānu), prioritāri sakārtos mikrorajonu ielas, pārskatīs satiksmes organizāciju, uzlabos drošību un neieviesīs maksas iebraukšanu centrā.",
+      "match": "Partly match",
+      "explanation": "Daļēji atbilst Program A 'Maģistrālo ielu pievilcība un pieejamība' un 'Vanšu tilts un citi tilti' - problēma (slikts ceļu stāvoklis) saskan, bet risinājums ir atšķirīgs, jo Program A fokusējas uz veloinfrastruktūru un sabiedriskā transporta prioritizēšanu, kamēr Program B vairāk uzmanības pievērš vispārējam ceļu stāvoklim un nemin veloinfrastruktūru."
+    },
+    {
+      "subject": "Digitalizācija un modernizācija",
+      "problem": "Nepietiekama pārvaldības efektivitāte un iedzīvotāju iesaiste digitālajos procesos.",
+      "solution": "Attīstīs e-pakalpojumus, ieviest viedās mobilitātes risinājumus un krīzes vadības digitālās platformas.",
+      "match": "Neutral",
+      "explanation": "Program A nefokusējas uz digitalizācijas un e-pakalpojumu jautājumiem, tāpēc šī tēma nav atrodama Program A."
+    },
+    {
+      "subject": "Tūrisms un kultūras pasākumi",
+      "problem": "Rīga zaudējusi tūrisma centra statusu un pasākumu dinamiku.",
+      "solution": "Atjaunos lielos svētkus (sākot ar Līgo 2025), sadarbošoties ar tūrisma nozari, reklamēs pilsētu ārvalstīs.",
+      "match": "Neutral",
+      "explanation": "Program A nefokusējas uz tūrisma un kultūras pasākumu jautājumiem, tāpēc šī tēma nav atrodama Program A."
+    },
+    {
+      "subject": "Valodas un izglītība",
+      "problem": "Nepietiekama piekļuve latviešu valodas apguvei un daudzvalodu informācijai.",
+      "solution": "Trīskāršos finansējumu latviešu valodas kursiem, nodrošinās pašvaldības pakalpojumus trīs valodās, mutisko tulkojumu pēc vajadzības, finansēs interešu izglītību dzimtās valodas un kultūras jomā.",
+      "match": "Neutral",
+      "explanation": "Program A nefokusējas uz valodas un izglītības jautājumiem, tāpēc šī tēma nav atrodama Program A."
+    },
+    {
+      "subject": "Pieminekļi un ielu nosaukumi",
+      "problem": "Ideoloģiski motivētas izmaiņas pilsētvidē.",
+      "solution": "Ieviesīs moratoriju ielu pārdēvēšanai un pieminekļu demontāžai.",
+      "match": "Neutral",
+      "explanation": "Program A nefokusējas uz pieminekļu un ielu nosaukumu jautājumiem, tāpēc šī tēma nav atrodama Program A."
+    }
+  ]

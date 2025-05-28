@@ -1,0 +1,37 @@
+[
+    {
+      "subject": "Valodas pieejamība un attieksme pret iedzīvotājiem",
+      "problem": "Pakalpojumi nav vienmēr pieejami iedzīvotāju ērtajā valodā, un trūkst individuālas, cieņpilnas attieksmes pret visiem nodokļu maksātājiem.",
+      "solution": "Nodrošināt pakalpojumu pieejamību iedzīvotājiem ērtajā valodā, neatkarīgi no dzimtās valodas vai etniskās piederības."
+    },
+    {
+      "subject": "Kultūrvēsturiskā mantojuma saglabāšana",
+      "problem": "Notiek pieminekļu nojaukšana un ielu nosaukumu maiņa, kas apdraud kultūrvēsturisko mantojumu.",
+      "solution": "Aizliegt pieminekļu nojaukšanu un atjaunot vēsturiskos ielu nosaukumus."
+    },
+    {
+      "subject": "Sociālais atbalsts un izglītība",
+      "problem": "Nepietiekams atbalsts ģimenēm ar bērniem, zemas algas pirmsskolas darbiniekiem, ierobežota piekļuve interešu izglītībai un dzimtās valodas apguvei.",
+      "solution": "Atjaunot brīvpusdienas visās skolās, palielināt bērna piedzimšanas pabalstu, pilnībā kompensēt interešu pulciņus, paaugstināt algas pirmsskolas darbiniekiem, nodrošināt bezmaksas ēdināšanu, izveidot attīstības centrus bērniem, nodrošināt krievu valodas nodarbības un kompensēt izglītības maksu bērniem ar īpašām vajadzībām."
+    },
+    {
+      "subject": "Ceļu infrastruktūra un satiksme",
+      "problem": "Rīgā ir sliktā stāvoklī esoši ceļi, neasfaltētas ielas, nepietiekama apgaismošana un sabiedriskais transports, kas nav bezmaksas.",
+      "solution": "Plānveidīgi izremontēt maģistrālos ceļus, novirzīt stāvvietu maksas mikrorajonu autostāvvietām, asfaltēt neasfaltētas ielas, pabeigt apgaismošanas darbus, paātrināt iekškvartālu remontus, veikt tiltu auditu, atjaunot lietus kanalizāciju un nodrošināt bezmaksas sabiedrisko transportu visiem rīdziniekiem."
+    },
+    {
+      "subject": "Korupcija pašvaldības uzņēmumos",
+      "problem": "Iespējamā naudas izšķērdēšana un neskaidra līdzekļu izlietošana pašvaldības uzņēmumos.",
+      "solution": "Veikt pilnīgu auditu RNP, Rīgas satiksmē, Rīgas ūdenī un citos uzņēmumos, lai samazinātu tarifus un izbeigtu naudas izšķērdēšanu."
+    },
+    {
+      "subject": "Mājokļu pieejamība un dzīves vide",
+      "problem": "Jaunajām ģimenēm trūkst pieejamu mājokļu, augsti nodokļi, nesakārtoti pagalmi un gaisa kvalitātes problēmas.",
+      "solution": "Celt pieejamus īres mājokļus, samazināt nekustamā īpašuma nodokli, palielināt sociālo atbalstu, atjaunot līdzfinansējumu māju renovācijām, sakārtot atkritumu konteineru novietnes, uzstādīt gaisa kvalitātes sensorus, novērst stabiņu un veloceliņu haosu, noņemt liekās ceļa zīmes un pārtraukt neizdevīgu dzīvokļu līgumu praksi."
+    },
+    {
+      "subject": "Demokrātija un sabiedrības līdzdalība",
+      "problem": "Iedzīvotājiem nav reālas iespējas ietekmēt lēmumu pieņemšanu Rīgā, un tiek plānoti nepopulāri industriāli projekti, piemēram, atkritumu dedzināšanas rūpnīcas.",
+      "solution": "Apturēt atkritumu dedzināšanas rūpnīcu būvniecību, nodrošināt kopīgu balsošanu par svarīgiem jautājumiem, padarīt balsojumu rezultātus saistošus domei un izstrādāt mikrorajonu attīstības risinājumus sadarbībā ar iedzīvotājiem."
+    }
+  ]

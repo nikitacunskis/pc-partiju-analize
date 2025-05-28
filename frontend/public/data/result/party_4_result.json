@@ -1,0 +1,93 @@
+[
+    {
+      "subject": "Pilsētas pārvaldība",
+      "problem": "Pašreizējā vara palielina izdevumus savai uzturēšanai un demonstrē politisku egoismu, ignorējot vēlētāju intereses.",
+      "solution": "Pazemināt izdevumus pilsētvaras uzturēšanai vismaz par 20% un novirzīt līdzekļus sociālās aizsardzības programmām.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pilsētas pārvaldības un budžeta izdevumu jautājumiem."
+    },
+    {
+      "subject": "Starpetniskās attiecības",
+      "problem": "Ir mēģinājumi kurināt starpnacionālo naidu un demonstrēt rusofobiju.",
+      "solution": "Apturēt jebkādus starpnacionālā naida kurināšanas mēģinājumus un veidot Rīgu kā darbaļaužu solidaritātes pilsētu.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis starpetnisko attiecību jautājumiem."
+    },
+    {
+      "subject": "Ekonomiskā attīstība un nodarbinātība",
+      "problem": "Rīgā trūkst darbavietu un investīciju, kas palielinātu pašvaldības nodokļu bāzi.",
+      "solution": "Prioritāri piesaistīt radošas un nodokļu bāzi paplašinošas investīcijas, nodrošinot vēlētāju kontroli pār rezultātiem.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis ekonomiskās attīstības un nodarbinātības jautājumiem."
+    },
+    {
+      "subject": "Jaunatnes atbalsts",
+      "problem": "Nav pietiekama atbalsta jaunajiem speciālistiem un tehnoloģiskajiem uzņēmumiem.",
+      "solution": "Atbalstīt jaunatnes tehnoloģisko biznesu un kooperatīvu veidošanu, lai piesaistītu un noturētu jaunos speciālistus Rīgā.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis jaunatnes atbalsta un tehnoloģisko uzņēmumu jautājumiem."
+    },
+    {
+      "subject": "Dzīvojamo un transporta infrastruktūra",
+      "problem": "Nepietiekami ieguldījumi dzīvojamo ēku, komunālās un transporta infrastruktūras uzturēšanā.",
+      "solution": "Pārskatīt investīciju plānus par labu šo infrastruktūru remontam un modernizācijai ar sabiedrisko kontroli.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Prioritāšu sadale pilsētas attīstībā' - problēma (nepietiekami ieguldījumi transporta infrastruktūrā) ir līdzīga, bet risinājums ir vispārīgāks un neakcentē mazāk aizsargāto satiksmes dalībnieku un sabiedriskā transporta prioritizēšanu, kā to dara Program A."
+    },
+    {
+      "subject": "Kultūra un sports",
+      "problem": "Līdzekļu izlietojums masu pasākumiem nav efektīvs, bet bērnu sporta un radošie pulciņi ir nepietiekami atbalstīti.",
+      "solution": "Veikt izdevumu auditu masu kultūras un sporta pasākumiem un ietaupītos līdzekļus novirzīt bērnu sporta un radošo pulciņu atbalstam.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis kultūras un sporta jautājumiem."
+    },
+    {
+      "subject": "Sociālais atbalsts",
+      "problem": "Sociālie pakalpojumi kļūst nepieejami, un tarifi - nepaceļami darbaļaužu ģimenēm.",
+      "solution": "Ieviest atbalsta programmu ģimenēm pēc bērna piedzimšanas līdz pilngadībai un saglabāt braukšanas atvieglojumus mazaizsargātajām grupām.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sociālā atbalsta jautājumiem."
+    },
+    {
+      "subject": "Sabiedrības līdzdalība",
+      "problem": "Iedzīvotājiem nav pietiekamas iespējas ietekmēt pašvaldības darbu un iniciatīvu ieviešanu.",
+      "solution": "Nodrošināt sabiedrības līdzdalību Domes darbā, izvērtējot iedzīvotāju pieteikumu un iniciatīvu realizācijas kārtību un kvalitāti.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sabiedrības līdzdalības jautājumiem."
+    },
+    {
+      "subject": "Pašvaldības uzņēmumi",
+      "problem": "Pašvaldības uzņēmumu izmaksas ir augstas un pakalpojumu tarifi pieaug.",
+      "solution": "Veikt pašvaldības uzņēmumu funkcionālo auditu, samazināt darbības izdevumus, apturēt tarifu pieaugumu un ietaupīto novirzīt sociālajam atbalstam.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pašvaldības uzņēmumu pārvaldības jautājumiem."
+    },
+    {
+      "subject": "Atkritumu apsaimniekošana un ekoloģija",
+      "problem": "Dalītās atkritumu savākšanas sistēma ir sadārdzinājusi dzīvi un pasliktinājusi sanitāro stāvokli.",
+      "solution": "Pārskatīt atkritumu savākšanas politiku, lai tā uzlabotu ekoloģisko situāciju bez papildu sloga iedzīvotājiem.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis atkritumu apsaimniekošanas un ekoloģijas jautājumiem."
+    },
+    {
+      "subject": "Narkotiku tirdzniecība",
+      "problem": "Narkotiku tirdzniecība izplatās, tostarp pie mācību iestādēm, apdraudot jaunatni.",
+      "solution": "Stingri apkarot narkotiku tirdzniecību, īpaši izglītības iestāžu tuvumā.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis narkotiku tirdzniecības apkarošanas jautājumiem."
+    },
+    {
+      "subject": "Ceļu stāvoklis un remonti",
+      "problem": "Ielas tiek remontētas nekvalitatīvi, ceļu stāvoklis pasliktinās.",
+      "solution": "Nodrošināt kvalitatīvu ceļu remontu ar sabiedrības uzraudzību un iespējamas korupcijas izskaušanu.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Maģistrālo ielu pievilcība un pieejamība' - problēma (slikts ceļu stāvoklis) ir līdzīga, bet risinājums ir vispārīgāks un neakcentē veloinfrastruktūras, sabiedriskā transporta joslu un apstādījumu izbūvi, kā to dara Program A."
+    },
+    {
+      "subject": "ES politika un atkarība",
+      "problem": "Latvija kļūst pārāk atkarīga no ES, kuras politika vērsta uz militarizāciju uz sociālās labklājības rēķina.",
+      "solution": "Iestāties pret ekonomikas militarizāciju un saglabāt fokusu uz sociālajām vajadzībām un darbaļaužu dzīves līmeņa saglabāšanu.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis ES politikas un militarizācijas jautājumiem."
+    }
+  ]

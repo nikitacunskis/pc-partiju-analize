@@ -1,0 +1,67 @@
+[
+    {
+      "subject": "Pilsētas pārvaldība",
+      "problem": "Pašreizējā vara palielina izdevumus savai uzturēšanai un demonstrē politisku egoismu, ignorējot vēlētāju intereses.",
+      "solution": "Pazemināt izdevumus pilsētvaras uzturēšanai vismaz par 20% un novirzīt līdzekļus sociālās aizsardzības programmām."
+    },
+    {
+      "subject": "Starpetniskās attiecības",
+      "problem": "Ir mēģinājumi kurināt starpnacionālo naidu un demonstrēt rusofobiju.",
+      "solution": "Apturēt jebkādus starpnacionālā naida kurināšanas mēģinājumus un veidot Rīgu kā darbaļaužu solidaritātes pilsētu."
+    },
+    {
+      "subject": "Ekonomiskā attīstība un nodarbinātība",
+      "problem": "Rīgā trūkst darbavietu un investīciju, kas palielinātu pašvaldības nodokļu bāzi.",
+      "solution": "Prioritāri piesaistīt radošas un nodokļu bāzi paplašinošas investīcijas, nodrošinot vēlētāju kontroli pār rezultātiem."
+    },
+    {
+      "subject": "Jaunatnes atbalsts",
+      "problem": "Nav pietiekama atbalsta jaunajiem speciālistiem un tehnoloģiskajiem uzņēmumiem.",
+      "solution": "Atbalstīt jaunatnes tehnoloģisko biznesu un kooperatīvu veidošanu, lai piesaistītu un noturētu jaunos speciālistus Rīgā."
+    },
+    {
+      "subject": "Dzīvojamo un transporta infrastruktūra",
+      "problem": "Nepietiekami ieguldījumi dzīvojamo ēku, komunālās un transporta infrastruktūras uzturēšanā.",
+      "solution": "Pārskatīt investīciju plānus par labu šo infrastruktūru remontam un modernizācijai ar sabiedrisko kontroli."
+    },
+    {
+      "subject": "Kultūra un sports",
+      "problem": "Līdzekļu izlietojums masu pasākumiem nav efektīvs, bet bērnu sporta un radošie pulciņi ir nepietiekami atbalstīti.",
+      "solution": "Veikt izdevumu auditu masu kultūras un sporta pasākumiem un ietaupītos līdzekļus novirzīt bērnu sporta un radošo pulciņu atbalstam."
+    },
+    {
+      "subject": "Sociālais atbalsts",
+      "problem": "Sociālie pakalpojumi kļūst nepieejami, un tarifi - nepaceļami darbaļaužu ģimenēm.",
+      "solution": "Ieviest atbalsta programmu ģimenēm pēc bērna piedzimšanas līdz pilngadībai un saglabāt braukšanas atvieglojumus mazaizsargātajām grupām."
+    },
+    {
+      "subject": "Sabiedrības līdzdalība",
+      "problem": "Iedzīvotājiem nav pietiekamas iespējas ietekmēt pašvaldības darbu un iniciatīvu ieviešanu.",
+      "solution": "Nodrošināt sabiedrības līdzdalību Domes darbā, izvērtējot iedzīvotāju pieteikumu un iniciatīvu realizācijas kārtību un kvalitāti."
+    },
+    {
+      "subject": "Pašvaldības uzņēmumi",
+      "problem": "Pašvaldības uzņēmumu izmaksas ir augstas un pakalpojumu tarifi pieaug.",
+      "solution": "Veikt pašvaldības uzņēmumu funkcionālo auditu, samazināt darbības izdevumus, apturēt tarifu pieaugumu un ietaupīto novirzīt sociālajam atbalstam."
+    },
+    {
+      "subject": "Atkritumu apsaimniekošana un ekoloģija",
+      "problem": "Dalītās atkritumu savākšanas sistēma ir sadārdzinājusi dzīvi un pasliktinājusi sanitāro stāvokli.",
+      "solution": "Pārskatīt atkritumu savākšanas politiku, lai tā uzlabotu ekoloģisko situāciju bez papildu sloga iedzīvotājiem."
+    },
+    {
+      "subject": "Narkotiku tirdzniecība",
+      "problem": "Narkotiku tirdzniecība izplatās, tostarp pie mācību iestādēm, apdraudot jaunatni.",
+      "solution": "Stingri apkarot narkotiku tirdzniecību, īpaši izglītības iestāžu tuvumā."
+    },
+    {
+      "subject": "Ceļu stāvoklis un remonti",
+      "problem": "Ielas tiek remontētas nekvalitatīvi, ceļu stāvoklis pasliktinās.",
+      "solution": "Nodrošināt kvalitatīvu ceļu remontu ar sabiedrības uzraudzību un iespējamas korupcijas izskaušanu."
+    },
+    {
+      "subject": "ES politika un atkarība",
+      "problem": "Latvija kļūst pārāk atkarīga no ES, kuras politika vērsta uz militarizāciju uz sociālās labklājības rēķina.",
+      "solution": "Iestāties pret ekonomikas militarizāciju un saglabāt fokusu uz sociālajām vajadzībām un darbaļaužu dzīves līmeņa saglabāšanu."
+    }
+  ]

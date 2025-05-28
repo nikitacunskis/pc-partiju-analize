@@ -1,0 +1,72 @@
+[
+    {
+      "subject": "Latviešu valoda un kultūra",
+      "problem": "Latviešu valodas un latviskās kultūras klātbūtne Rīgā nav pietiekami stiprināta.",
+      "solution": "Stiprināt latviešu valodas lietojumu skolās un sabiedrībā, organizēt kultūras pasākumus, atzīmēt svētkus un veicināt latvisku vidi pilsētā.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis valodas un kultūras jautājumiem."
+    },
+    {
+      "subject": "Ekonomiskā attīstība",
+      "problem": "Rīgā nepieciešams veicināt ekonomisko izaugsmi, investīcijas un samazināt birokrātiju.",
+      "solution": "Piesaistīt investīcijas, atbalstīt uzņēmējdarbību, digitalizēt pakalpojumus, izmantot mākslīgo intelektu, veidot taisnīgu nodokļu un finansēšanas modeli, veicināt reemigrāciju.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis ekonomiskās attīstības jautājumiem."
+    },
+    {
+      "subject": "Izglītība",
+      "problem": "Nepietiekama speciālistu piesaiste, novecojusi infrastruktūra un nepietiekamas iespējas bērnu talantu attīstībai.",
+      "solution": "Piesaistīt speciālistus, modernizēt skolu kabinetus, attīstīt izglītības piedāvājumu apkaimēs, atbalstīt bērnu un jauniešu talantu pilnveidošanu.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis izglītības jautājumiem."
+    },
+    {
+      "subject": "Mājokļi un ģimenes atbalsts",
+      "problem": "Nepietiekams mājokļu piedāvājums un infrastruktūra ģimenēm ar bērniem.",
+      "solution": "Attīstīt mājokļu projektus, līdzfinansēt renovāciju, uzlabot rotaļu un sporta laukumus, piedāvāt atlaides daudzbērnu ģimenēm sabiedriskajā transportā.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis mājokļu un ģimenes atbalsta jautājumiem."
+    },
+    {
+      "subject": "Drošība",
+      "problem": "Nelegālā imigrācija, azartspēļu izplatība un nepietiekama civilā aizsardzība apdraud pilsētas drošību.",
+      "solution": "Izskaust nelegālo imigrāciju un azartspēles, stiprināt pašvaldības policiju un civilās aizsardzības sistēmu, izveidot videonovērošanas centru.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis drošības jautājumiem."
+    },
+    {
+      "subject": "Sabiedriskais transports",
+      "problem": "Nepietiekama sabiedriskā transporta pieejamība un savienojamība ar pilsētas apkaimēm.",
+      "solution": "Attīstīt transporta savienojumus ar apkaimēm, stacijām un lidostu, veicināt viedā transporta lietošanu, ieviest vienotu biļeti un attīstīt ūdenstransportu.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Sabiedriskais transports' - problēma (nepietiekama pieejamība un savienojamība) ir līdzīga, un risinājums (transporta savienojumi, vienota biļete) daļēji saskan ar Program A, bet Program B nefokusējas uz metrobusa projektu un sabiedriskā transporta joslām, kas ir Program A prioritātes."
+    },
+    {
+      "subject": "Ielu infrastruktūra un mobilitāte",
+      "problem": "Nesakārtota ielu infrastruktūra un nepietiekama vide velosipēdistiem un gājējiem.",
+      "solution": "Uzlabot transporta mezglus, paplašināt cietā seguma ielas, remontēt ielas un tiltus, attīstīt veloceļu tīklu, uzlabot ielu un ietvju tīrīšanu.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Maģistrālo ielu pievilcība un pieejamība', 'Vanšu tilts un citi tilti' un 'Ietves un veloinfrastruktūra apkaimēs' - problēma (nesakārtota infrastruktūra, nepietiekama vide velosipēdistiem un gājējiem) ir līdzīga, un risinājums (veloceļu tīkla attīstība, ielu un tiltu remonti) daļēji saskan, bet Program B nefokusējas uz satiksmes intensitātes samazināšanu un ātruma ierobežošanu, kas ir Program A prioritātes."
+    },
+    {
+      "subject": "Apkaimju attīstība",
+      "problem": "Apkaimes ir nevienmērīgi attīstītas, trūkst sabiedriskās un atpūtas infrastruktūras.",
+      "solution": "Attīstīt novārtā atstātas teritorijas, veidot sporta un atpūtas infrastruktūru, ieklausīties apkaimju biedrībās, veicināt lokālpatriotismu.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis vispārēju apkaimju attīstību un sabiedrisko infrastruktūru."
+    },
+    {
+      "subject": "Sociālie pakalpojumi",
+      "problem": "Nepietiekama sociālo pakalpojumu pieejamība bērniem, senioriem un cilvēkiem ar invaliditāti.",
+      "solution": "Nodrošināt kvalitatīvus pakalpojumus, paplašināt ģimeniskai videi pietuvinātus pakalpojumus, uzlabot vides pieejamību un ierobežot priekšrocības Krievijas pilsoņiem.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sociālo pakalpojumu jautājumiem."
+    },
+    {
+      "subject": "Vide un labiekārtošana",
+      "problem": "Nepietiekama atkritumu apsaimniekošana, zaļās zonas un pilsētvides apgaismojums.",
+      "solution": "Palielināt atkritumu konteineru skaitu, ieviest kompostēšanas laukumus, stādīt apstādījumus, labiekārtot peldvietas un izgaismot pilsētu.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Maģistrālo ielu pievilcība un pieejamība' - problēma (nepietiekamas zaļās zonas) ir līdzīga, un risinājums (apstādījumu stādīšana) daļēji saskan ar Program A, bet Program B ietver arī citus elementus, kas nav Program A fokusā."
+    }
+]

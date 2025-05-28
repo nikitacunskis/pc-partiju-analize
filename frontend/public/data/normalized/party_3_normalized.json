@@ -1,0 +1,42 @@
+[
+    {
+      "subject": "Pašvaldības budžeta izlietojums",
+      "problem": "Nelietderīga nodokļu naudas izmantošana, sadārdzināti iepirkumi, politiskais tūrisms",
+      "solution": "Pārskatīt izdevumu lietderību, ieviest sociālekonomisko pamatojumu iepirkumiem, prioritizēt pamatvajadzības budžetā, atbalstīt tikai lietderīgus komandējumus, izvērtēt Rīgas īpašumu izmantošanas efektivitāti"
+    },
+    {
+      "subject": "Transports un mobilitāte",
+      "problem": "Nav prāmju satiksmes, satiksmes sastrēgumi, neefektīva sabiedriskā transporta infrastruktūra",
+      "solution": "Celt jaunu prāmju termināli, savienot Austrumu maģistrāli ar Daugavas pārvadu, izbūvēt apakšzemes tuneli, izmantot dzelzceļu sabiedriskajam transportam, pagarināt tramvaja līniju līdz lidostai"
+    },
+    {
+      "subject": "Pilsētas pārvaldība un decentralizācija",
+      "problem": "Attālināta un neefektīva pārvalde, vāja saikne ar iedzīvotājiem",
+      "solution": "Izveidot reģionālos centrus, iecelt atbildīgos domniekus, organizēt priekšlikumu iesniegšanu un izskatīšanu, diferencēt būvnoteikumus, atbalstīt vietējo sabiedrisko aktivitāšu iniciatīvas"
+    },
+    {
+      "subject": "Demogrāfija un iedzīvotāju skaita samazināšanās",
+      "problem": "Rīgas iedzīvotāju skaita kritums un budžeta atkarība no tā",
+      "solution": "Samazināt nekustamā īpašuma nodokli, atbalstīt brīvo platību aizpildīšanu, ieviest īslaicīgu bezmaksas autostāvvietu sistēmu pie pakalpojumu vietām"
+    },
+    {
+      "subject": "Izglītība un sporta infrastruktūra",
+      "problem": "Nepietiekams finansējums izglītībai un nevienlīdzīga sporta infrastruktūras pieejamība",
+      "solution": "Ietaupījumus no apsaimniekošanas novirzīt skolotāju piemaksām, daļu skolu izmantot bērnudārziem, skolas padarīt par sabiedriskajiem centriem, izveidot daudzfunkcionālu sporta centru Bišumuižā"
+    },
+    {
+      "subject": "Uzņēmējdarbība un investīcijas",
+      "problem": "Nepietiekami atbalstoša vide uzņēmējiem, ilgi būvniecības projektu saskaņošanas termiņi, Getliņu atkritumu poligona noslodze",
+      "solution": "Izveidot uzņēmēju konsultatīvo padomi, saīsināt būvniecības saskaņošanas termiņus, atbalstīt dažādus uzņēmējdarbības veidus, tostarp ražošanu un atkritumu utilizāciju"
+    },
+    {
+      "subject": "Pašvaldības kapitālsabiedrību pārvaldība",
+      "problem": "Netransparenta un neefektīva kapitālsabiedrību vadība",
+      "solution": "Ieviest termiņus padomes locekļu iecelšanai, decentralizēt SIA 'Rīgas namu pārvaldnieks' darbību"
+    },
+    {
+      "subject": "Rīgas vizuālais tēls",
+      "problem": "Vāja vizuālā identitāte, nepietiekamas prasības skatlogiem un arhitektūras formām",
+      "solution": "Noteikt stingrākas prasības skatlogu, izkārtņu un mazo arhitektūras formu dizainam"
+    }
+  ]

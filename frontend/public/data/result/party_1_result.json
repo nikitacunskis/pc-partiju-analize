@@ -1,0 +1,37 @@
+[
+  {
+    "subject": "Infrastruktūra un transports",
+    "problem": "Iekšpagalmi, tilti, krustojumi un sabiedriskais transports nav pietiekami attīstīti un droši.",
+    "solution": "Sakārtot iekšpagalmus, atjaunot tiltus, izbūvēt divlīmeņu krustojumu, paplašināt sabiedriskā transporta pieejamību, ieviest e-skūteru ātruma ierobežojumus, uzlabot ietves un pārejas, labiekārtot ūdensmalas un peldvietas.",
+    "match": "Partly mismatch",
+    "explanation": "Šī tēma daļēji saskan ar vairākām Program A tēmām: 'Vanšu tilts un citi tilti', 'Sabiedriskais transports', 'Ietves un veloinfrastruktūra apkaimēs', un 'Pilsētas centra gājēju infrastruktūra'. Problēma (tilti, sabiedriskā transporta nepieejamība, ietvju stāvoklis) un risinājums (sabiedriskā transporta pieejamība, ietvju uzlabošana, ūdensmalas labiekārtošana) ir līdzīgi Program A punktiem. Tomēr piedāvājums par e-skūteru ierobežojumiem un iekšpagalmu sakārtošanu nav ietverts Program A mērķos. Kā arī divlīmeņu krustojumi iet pretrunā ar Program A mērķiem."
+  },
+  {
+    "subject": "Izglītība",
+    "problem": "Nepietiekams atbalsts pedagogiem, novecojusi izglītības vide un nepietiekamas iespējas bērniem ar īpašām vajadzībām.",
+    "solution": "Palielināt atbalstu skolotājiem, nodrošināt apmācības un motivāciju, piedāvāt bezmaksas ēdināšanu, nodrošināt MI rīkus un atbalsta speciālistus, attīstīt STEM priekšmetus, iekļaujošu izglītību un ārpus skolas aktivitātes.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A ietvaros, kura koncentrējas uz transporta, mobilitātes un pilsētas infrastruktūras uzlabošanu. Šis priekšlikums attiecas uz jomu, kas nav apskatīta Program A ietvaros."
+  },
+  {
+    "subject": "Sports un kultūra",
+    "problem": "Nepietiekama sporta un kultūras infrastruktūra dažādos Rīgas rajonos.",
+    "solution": "Izveidot jaunas sporta halles, attīstīt futbola stadionu Lucavsalā, atvērt Kongresu namu līdz pārbūvei.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A ietvaros, kura koncentrējas uz transporta, mobilitātes un pilsētas infrastruktūras uzlabošanu. Šis priekšlikums attiecas uz jomu, kas nav apskatīta Program A ietvaros."
+  },
+  {
+    "subject": "Sociālā aizsardzība un veselība",
+    "problem": "Nepietiekams atbalsts ģimenēm, senioriem, cilvēkiem ar īpašām vajadzībām un veselības aprūpei.",
+    "solution": "Ievies bērna piedzimšanas pabalstu, izveido asistentu datubāzi, palielini sociālā atbalsta pieejamību, nodrošini veselības pakalpojumus bērniem un senioriem, izveido kapelānu dienestu un atbalstu audžuģimenēm.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A ietvaros, kura koncentrējas uz transporta, mobilitātes un pilsētas infrastruktūras uzlabošanu. Šis priekšlikums attiecas uz jomu, kas nav apskatīta Program A ietvaros."
+  },
+  {
+    "subject": "Mājokļi",
+    "problem": "Daudzdzīvokļu māju slikts tehniskais stāvoklis un pašvaldības speciālistu mājokļu nepieejamība.",
+    "solution": "Nodrošināt līdzfinansējumu māju atjaunošanai un attīstīt īres namu programmu speciālistiem.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A ietvaros, kura koncentrējas uz transporta, mobilitātes un pilsētas infrastruktūras uzlabošanu. Šis priekšlikums attiecas uz jomu, kas nav apskatīta Program A ietvaros."
+  }
+]

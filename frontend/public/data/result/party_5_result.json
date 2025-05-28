@@ -1,0 +1,93 @@
+[
+    {
+      "subject": "Demokrātiska pārvaldība Rīgā",
+      "problem": "Rīgas pašvaldībā trūkst reālas iedzīvotāju varas un demokrātiskas pārvaldības struktūras.",
+      "solution": "Ievieš Rīgas Satversmi, ko pieņem referendumā; izveido 10-20 mazās mērijas, kuru pārstāvji veido Rīgas valdību; ievēlē ģenerālmēru; atjauno policijas prefekta amatu katrā mērijā.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pašvaldības pārvaldības struktūru un demokrātijas jautājumiem."
+    },
+    {
+      "subject": "Rūpniecības attīstība",
+      "problem": "Rūpniecība Rīgā ir vāji attīstīta un neatbilst mūsdienu vides un cilvēktiesību prasībām.",
+      "solution": "Veicina rūpniecības atdzimšanu ar uzsvaru uz augstajām tehnoloģijām, ievērojot vides un cilvēktiesību principus.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis rūpniecības attīstības jautājumiem."
+    },
+    {
+      "subject": "Rīdzinieku priekšrocības ekonomikā",
+      "problem": "Rīdziniekiem trūkst priekšrocību vietējā ekonomikā salīdzinājumā ar ārvalstu dalībniekiem.",
+      "solution": "Prioritāte Rīdziniekiem darba, īpašumu, iepirkumu un darījumu piedāvājumos; atbalsta arodbiedrības.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis ekonomisko priekšrocību un darba tirgus jautājumiem."
+    },
+    {
+      "subject": "Civilā un militārā aizsardzība",
+      "problem": "Nepietiekama sagatavotība krīzēm un militāriem apdraudējumiem.",
+      "solution": "Ievieš 10 dienu militārās apmācības kursus, attīsta pazemes un virszemes aizsardzības infrastruktūru, tostarp bunkurus, patvertnes un pretgaisa sistēmas.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis civilās un militārās aizsardzības jautājumiem."
+    },
+    {
+      "subject": "Veselības aprūpes sistēma",
+      "problem": "Nepietiekama medicīnas infrastruktūra un finansējums.",
+      "solution": "Izveido modernu medicīnas sistēmu kā biržā kotētu akciju sabiedrību, kur Rīgai pieder kontrolpakete.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis veselības aprūpes sistēmas jautājumiem."
+    },
+    {
+      "subject": "Finanšu iestādes Rīgā",
+      "problem": "Rīgai trūkst neatkarīgu finanšu institūciju.",
+      "solution": "Izveido Rīgas Banku un apdrošināšanas sabiedrību ar pašvaldības līdzdalību.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis finanšu iestāžu jautājumiem."
+    },
+    {
+      "subject": "Augstākā izglītība",
+      "problem": "Nepietiekama Rīgas iesaiste augstākajā izglītībā un pētniecībā.",
+      "solution": "Nodibina Rīgas Universitāti un Rīgas Tehnoloģisko Institūtu.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis augstākās izglītības jautājumiem."
+    },
+    {
+      "subject": "Sports, kultūra un vide",
+      "problem": "Nepietiekamas iespējas sportā, kultūrā un vides kvalitātē.",
+      "solution": "Attīsta sporta infrastruktūru un klubus; veido mākslas kvartālu; atbalsta kultūras projektus un kino industriju; uzlabo gaisa, ūdens un trokšņu apstākļus.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sporta, kultūras un vides jautājumiem."
+    },
+    {
+      "subject": "Inovatīva apdzīvota vide",
+      "problem": "Rīgā trūkst mūsdienīgu un pašpietiekamu dzīvesvietu jaunām ģimenēm un radošiem cilvēkiem.",
+      "solution": "Izveido 'Saules pilsētu' – eko-ciematu ar uzsvaru uz saules enerģiju, viedajām tehnoloģijām un pašpietiekamību.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis inovatīvu dzīvesvietu attīstības jautājumiem."
+    },
+    {
+      "subject": "Satiksmes attīstība",
+      "problem": "Nepietiekama uzmanība alternatīvajiem transporta veidiem.",
+      "solution": "Attīsta aviāciju (mazās lidmašīnas, helikopterus), ūdens satiksmi un dzīvi uz ūdens.",
+      "match": "Partly mismatch",
+      "explanation": "Daļēji saskan ar Program A 'Sabiedriskais transports' problēmu (nepietiekama uzmanība alternatīvajiem transporta veidiem), bet risinājums ir pretrunā ar Program A, jo fokusējas uz aviāciju un ūdens satiksmi, nevis uz sabiedriskā transporta joslu, veloinfrastruktūras un metrobusa attīstību."
+    },
+    {
+      "subject": "Pieminekļu un kultūrvēsturisku objektu attīstība",
+      "problem": "Trūkst simbolisku un nacionāli nozīmīgu objektu pilsētvidē.",
+      "solution": "Izveido Nameja pieminekli un Varoņu aleju līdz Brīvības piemineklim.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pieminekļu un kultūrvēsturisku objektu attīstības jautājumiem."
+    },
+    {
+      "subject": "Birokrātijas samazināšana",
+      "problem": "Pārmērīga birokrātija kavē attīstību un normālu dzīvi Rīgā.",
+      "solution": "Izveido BAILA aģentūru ar plašām pilnvarām izvērtēt kapitālsabiedrību darbību un samazināt normatīvo slogu.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis birokrātijas samazināšanas jautājumiem."
+    },
+    {
+      "subject": "Iedzīvotāju vara un demokrātiska līdzdalība",
+      "problem": "Iedzīvotājiem nav reālas iespējas tieši ietekmēt pašvaldības vadību.",
+      "solution": "Pēc ievēlēšanas pārstāvis noliek mandātu, dodot iespēju visiem Rīdziniekiem kandidēt ārkārtas vēlēšanās; pat ar 5% balsu tiek iegūta 'zelta akcija' fragmentētā domē.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis iedzīvotāju varas un demokrātiskas līdzdalības jautājumiem."
+    }
+  ]

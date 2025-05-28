@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "Rīgas attīstība",
+    "problem": "Iedzīvotāju skaits sarūk, infrastruktūra ir nolietota, trūkst izlēmīgas un mērķtiecīgas attīstības.",
+    "solution": "Ieviest detalizētu un izsvērtu attīstības plānu, lai Rīga kļūtu par vadošu Baltijas metropoli ar augstu dzīves kvalitāti."
+  },
+  {
+    "subject": "Transporta infrastruktūra",
+    "problem": "Rīgas ielas ir sliktā stāvoklī, remontdarbi ir nejēdzīgi, tilti ir pirmssabrukuma stāvoklī.",
+    "solution": "Izstrādāt un īstenot mērķtiecīgu, sistemātisku vairāku gadu rekonstrukcijas programmu, lai četru gadu laikā sakārtotu vairumu ielu."
+  },
+  {
+    "subject": "Pašvaldības pārvaldība un birokrātija",
+    "problem": "Iedzīvotājiem jākārto lietas birokrātiskā veidā, pārvalde ir neefektīva.",
+    "solution": "Samazināt birokrātiju, atcelt nevajadzīgas procedūras un nodrošināt, ka ierēdņi paši nokārto nepieciešamos jautājumus."
+  },
+  {
+    "subject": "Investīcijas",
+    "problem": "Rīga nav pietiekami pievilcīga privātajiem investoriem.",
+    "solution": "Ieviest visapjomīgāko atbalsta programmu investoriem, padarot Rīgu par investīcijām draudzīgāko pilsētu Baltijā."
+  },
+  {
+    "subject": "Komunālie pakalpojumi un apkure",
+    "problem": "Apkures cenas ir augstas, salīdzinot ar pagātni.",
+    "solution": "Samazināt apkures cenu par trešdaļu un uzlabot komunālo pakalpojumu kvalitāti."
+  },
+  {
+    "subject": "Sabiedriskā drošība",
+    "problem": "Pastāv drošības riski – vardarbība, noziedzība, negadījumi.",
+    "solution": "Palielināt pašvaldības policijas kapacitāti, uzlabot ielu apgaismojumu, attīstīt viedās drošības tehnoloģijas un sniegt atbalstu vardarbības upuriem."
+  },
+  {
+    "subject": "Ģimenes un sociālie pakalpojumi",
+    "problem": "Nepietiekama izglītība, veselības aprūpe un sociālie pakalpojumi.",
+    "solution": "Nodrošināt izcilu izglītību un pieejamus drošus veselības un sociālos pakalpojumus, veicināt privātās investīcijas un daudzveidību."
+  },
+  {
+    "subject": "Mājokļu pieejamība",
+    "problem": "Trūkst pieejamu mājokļu.",
+    "solution": "Veicināt privātas investīcijas mājokļu būvniecībā, četru gadu laikā uzbūvējot 5000 jaunus mājokļus un siltinot tūkstošiem esošo."
+  },
+  {
+    "subject": "Vide un apstādījumi",
+    "problem": "Gaisa kvalitāte un apstādījumu trūkums pilsētā.",
+    "solution": "Veidot zaļu Rīgu ar labu gaisa kvalitāti un vairāk koku ielu malās."
+  },
+  {
+    "subject": "Kultūra",
+    "problem": "Rīgā nav pietiekami daudz kvalitatīvu un daudzveidīgu kultūras notikumu.",
+    "solution": "Padarīt Rīgu par Baltijas kultūras galvaspilsētu ar bagātīgu ikdienas kultūras piedāvājumu."
+  },
+  {
+    "subject": "Sabiedriskais transports",
+    "problem": "Sabiedriskais transports nav pietiekami efektīvs vai pielāgots iedzīvotāju vajadzībām.",
+    "solution": "Attīstīt efektīvu, iedzīvotāju vajadzībām pielāgotu un mērķtiecīgi augošu sabiedrisko transportu."
+  },
+  {
+    "subject": "Sociālais atbalsts",
+    "problem": "Daļa iedzīvotāju nesaņem nepieciešamo sociālo atbalstu.",
+    "solution": "Izveidot labu un izsvērtu sociālo pakalpojumu sistēmu, kas nodrošina atbalstu visiem, kam tas nepieciešams."
+  },
+  {
+    "subject": "Veselīgs dzīvesveids un sports",
+    "problem": "Iedzīvotājiem nav pietiekamu iespēju veselīgam dzīvesveidam un atpūtai.",
+    "solution": "Atbalstīt sportu, veselīgu dzīvesveidu un labas atpūtas iespējas, lai iedzīvotāji kļūtu veselīgāki."
+  }
+]

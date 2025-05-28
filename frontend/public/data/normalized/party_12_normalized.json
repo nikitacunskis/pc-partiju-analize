@@ -1,0 +1,122 @@
+[
+  {
+    "subject": "Pašvaldības budžets un tēriņi",
+    "problem": "Nepietiekama caurspīdība un iespējama līdzekļu izšķērdēšana.",
+    "solution": "Veikt pilnu budžeta auditu, pārskatīt iepirkumus, apturēt nelietderīgus tēriņus, nodrošināt pilnīgu amata un finanšu caurspīdību."
+  },
+  {
+    "subject": "Ģimeņu un bērnu atbalsts",
+    "problem": "Nepietiekams finansiālais atbalsts ģimenēm un bērniem.",
+    "solution": "Ieviest dzimšanas pabalstu 2000 eiro, ikmēneša bērnu pabalstus, brīvpusdienas, NĪN atbrīvojumu daudzbērnu ģimenēm, palielināt finansējumu pulciņiem."
+  },
+  {
+    "subject": "Senioru un personu ar invaliditāti atbalsts",
+    "problem": "Ierobežota piekļuve medikamentiem un medicīnas pakalpojumiem.",
+    "solution": "Piešķirt ikmēneša pabalstus zāļu iegādei, nodrošināt bezmaksas medicīnas pakalpojumus pašvaldības iestādēs."
+  },
+  {
+    "subject": "Sociālā aprūpe un resocializācija",
+    "problem": "Nepietiekams atbalsts ārpusģimenes aprūpes jauniešiem un paliatīvajiem pacientiem.",
+    "solution": "Piešķirt pabalstus aprūpētājiem, ieviest resocializācijas programmas."
+  },
+  {
+    "subject": "Uzņēmējdarbības veicināšana",
+    "problem": "Nepietiekams atbalsts vietējiem uzņēmējiem un zinātniekiem.",
+    "solution": "Ieviest lojalitātes programmu, organizēt tīklošanas forumu, izveidot zinātnes fondu, sadarboties ar augstskolām un uzņēmējiem."
+  },
+  {
+    "subject": "Vecrīgas attīstība",
+    "problem": "Vecrīgas ekonomiskā un kultūras stagnācija.",
+    "solution": "Izveidot tematiskos izziņas centrus, kas veicina tūrisma un vietējās uzņēmējdarbības attīstību."
+  },
+  {
+    "subject": "Apkaimju un kultūras attīstība",
+    "problem": "Nepietiekama pieejamība kultūras, sporta un kopstrādes telpām.",
+    "solution": "Izveidot kultūras centrus ar kopstrādes telpām, paplašināt sporta skolu pakalpojumus un nodrošināt stadionus."
+  },
+  {
+    "subject": "Digitālie pakalpojumi",
+    "problem": "Grūta piekļuve informācijai par pasākumiem un pakalpojumiem.",
+    "solution": "Izveidot vienotu Rīgas e-lietotni ar plašu funkcionalitāti."
+  },
+  {
+    "subject": "Publiskā vide un drošība",
+    "problem": "Nedrošas un nesakoptas sabiedriskās vietas.",
+    "solution": "Sakopt parkus, promenādes, nodrošināt drošību un vidi bez narkotikām."
+  },
+  {
+    "subject": "Mazākumtautību izglītība un kultūra",
+    "problem": "Ierobežotas iespējas mazākumtautībām saglabāt valodu un kultūru.",
+    "solution": "Nodrošināt pilnu apmācību mazākumtautību valodu un kultūru saglabāšanai skolās un PII."
+  },
+  {
+    "subject": "Ģimenes vērtību popularizēšana",
+    "problem": "Zema sabiedrības iesaiste ģimenes vērtību godināšanā.",
+    "solution": "Rīkot ikgadējo Ģimenes gājienu, īpaši godājot daudzbērnu ģimenes."
+  },
+  {
+    "subject": "Iedzīvotāju līdzdalība",
+    "problem": "Zema iedzīvotāju iesaiste lēmumu pieņemšanā.",
+    "solution": "Stiprināt sabiedrības iesaisti pašvaldības lēmumos, atbalstīt apkaimju biedrības un kopienu iniciatīvas."
+  },
+  {
+    "subject": "Pašvaldības dzīvokļi un īres tirgus",
+    "problem": "Nepilnīgs īres regulējums un denacionalizēto īrnieku problēmas.",
+    "solution": "Ieviesīt skaidru īres regulējumu, paredzēt taisnīgus līgumu noteikumus un kompensācijas denacionalizēto māju īrniekiem."
+  },
+  {
+    "subject": "Sabiedriskais transports un infrastruktūra",
+    "problem": "Nepietiekama pieejamība un efektivitāte sabiedriskajā transportā, satiksmes organizācijas problēmas.",
+    "solution": "Ieviesīt bezmaksas transportu Rīgā deklarētajiem, uzlabot savienojumus, veikt ceļu auditus un ieviest zinātnisku pieeju infrastruktūras plānošanā."
+  },
+  {
+    "subject": "Daudzdzīvokļu māju pagalmu labiekārtošana",
+    "problem": "Nesakārtoti daudzdzīvokļu māju pagalmi.",
+    "solution": "Izveidot līdzfinansējuma programmu pagalmu labiekārtošanai un ceļu remontam."
+  },
+  {
+    "subject": "Pašvaldības uzņēmumu darbība",
+    "problem": "Nepārskatāma un neefektīva pašvaldības uzņēmumu darbība.",
+    "solution": "Ieviest efektīvu pārvaldību, nodrošināt ātru saziņu un pārskatāmus izdevumus."
+  },
+  {
+    "subject": "Pašvaldības policijas prakse",
+    "problem": "Negodīga sodīšanas prakse ar paslēptiem auto.",
+    "solution": "Atcelt šādu praksi un uzlabot policijas darbu drošības prioritātē."
+  },
+  {
+    "subject": "Ūdens transports",
+    "problem": "Nepietiekami attīstīts ūdens transports Rīgā.",
+    "solution": "Attīstīt ūdens transportu gan atpūtai, gan ikdienas pārvietošanās vajadzībām."
+  },
+  {
+    "subject": "Kultūrvēsturiskā vide",
+    "problem": "Pieminekļu nojaukšana un kultūras mantojuma apdraudējums.",
+    "solution": "Nepieļaut nojaukšanu, atjaunot toponīmus, sakārtot piemiņas vietas un kapsētas."
+  },
+  {
+    "subject": "Vides aizsardzība",
+    "problem": "Draudi no atkritumu dedzināšanas rūpnīcām un nepietiekama šķirošana.",
+    "solution": "Nepieļaut rūpnīcu būvi, paplašināt šķiroto atkritumu sistēmu, stādīt jaunus kokus."
+  },
+  {
+    "subject": "Valodu prasmes pašvaldības iestādēs",
+    "problem": "Nepietiekama darbinieku valodu prasme saziņai ar iedzīvotājiem un tūristiem.",
+    "solution": "Nodrošināt darbinieku daudzvalodību un atjaunot tūristu policiju."
+  },
+  {
+    "subject": "Pasākumu un kultūras dzīve",
+    "problem": "Nepietiekami daudzveidīga un pieejama pasākumu programma.",
+    "solution": "Izveidot Rīgas pasākumu kalendāru, iekļaujot mazākumtautību, sporta un izklaides pasākumus vairākās valodās."
+  },
+  {
+    "subject": "Sabiedriskā drošība",
+    "problem": "Zema drošības sajūta sarežģītos rajonos.",
+    "solution": "Stiprināt pašvaldības policijas klātbūtni, prioritizējot iedzīvotāju drošību."
+  },
+  {
+    "subject": "Dzīvnieku labturība",
+    "problem": "Nepietiekama rūpe par dzīvniekiem pilsētā.",
+    "solution": "Nodrošināt civilizētu pieeju dzīvnieku aprūpei Rīgā."
+  }
+]

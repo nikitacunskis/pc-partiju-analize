@@ -1,0 +1,47 @@
+[
+    {
+      "subject": "Ielu un sabiedriskā transporta infrastruktūra",
+      "problem": "Ielas un ietves ir sliktā stāvoklī, sabiedriskā transporta efektivitāte un piekļuve ir nepietiekama, skolēnu ceļš uz skolu nav pietiekami drošs.",
+      "solution": "Veikt plānveidīgus un kvalitatīvus ielu remontus, izbūvēt gājēju pārejas, apgaismojumu, soliņus un kokus; palielināt sabiedriskā transporta joslu skaitu; savienot apkaimes ar sabiedriskā transporta un veloceļu tīklu; nodrošināt reālu drošību skolēniem ceļā uz skolu."
+    },
+    {
+      "subject": "Pašvaldības pārvaldība un budžeta plānošana",
+      "problem": "Nepietiekama caurspīdība, augstas izmaksas iepirkumos, korupcija, budžeta īstermiņa plānošana, ierobežota iedzīvotāju iesaiste lēmumu pieņemšanā.",
+      "solution": "Veicināt konkurenci iepirkumos, izskaust korupciju, plānot budžetu trīs gadu periodam, rīkot konsultatīvos referendumus par nozīmīgiem jautājumiem."
+    },
+    {
+      "subject": "Sabiedriskā drošība un krīzes gatavība",
+      "problem": "Nepietiekama aizsardzība ārkārtas situācijās, zema sabiedrības gatavība krīzēm, nepietiekami atalgoti un apmācīti pašvaldības policisti.",
+      "solution": "Izveidot patvertnes jaunās pašvaldības ēkās un daudzdzīvokļu namos, iesaistīt apkaimju biedrības drošības veicināšanā, organizēt krīzes mācības, palielināt algas un apmācības pašvaldības policijā."
+    },
+    {
+      "subject": "Ekonomiskā attīstība",
+      "problem": "Zema investīciju piesaiste, nepietiekams atbalsts uzņēmējdarbībai, birokrātiski šķēršļi, nesamērīgas iemaksas Pašvaldību izlīdzināšanas fondā.",
+      "solution": "Palielināt pašvaldības iesaisti investīciju piesaistē, organizēt starptautiskus pasākumus, samazināt birokrātiju, panākt taisnīgākas iemaksas fondā."
+    },
+    {
+      "subject": "Izglītība un kultūra",
+      "problem": "Nepietiekama izpratne par kvalitatīvu izglītību, izglītības nesaskaņotība ar bērnu vajadzībām, trūkst atbalsta pedagogiem un kultūras sektora nepietiekams finansējums.",
+      "solution": "Attīstīt iekļaujošu izglītību, pielāgot mācības bērnu vajadzībām, nodrošināt atbalstu pedagogiem un skolu vadītājiem, veicināt līdzdalību lēmumu pieņemšanā, uzlabot kultūras iestāžu infrastruktūru un līdzfinansējuma plānošanu, atbalstīt koncertzāles un mākslas muzeja attīstību."
+    },
+    {
+      "subject": "Vides aizsardzība un zaļā pilsētvide",
+      "problem": "Pārmērīga atkritumu dedzināšana, piesārņojums no transporta, nepietiekami attīstīta zaļā infrastruktūra.",
+      "solution": "Prioritēt atkritumu šķirošanu un samazināšanu, ieviest zemo emisiju zonu, ieguldīt parkos un suņu laukumos, uzlabot piekļuvi ūdensmalai Rīgas centrā."
+    },
+    {
+      "subject": "Sociālie pakalpojumi",
+      "problem": "Nepietiekami resursi sociālajā jomā, zems sociālo darbinieku atalgojums, nepietiekami pielāgoti pakalpojumi iedzīvotāju vajadzībām.",
+      "solution": "Novirzīt vismaz 10% budžeta sociālajai jomai, palielināt sociālā darba speciālistu algas, attīstīt mūsdienīgus un iekļaujošus pakalpojumus, īpaši bērniem ar funkcionāliem traucējumiem."
+    },
+    {
+      "subject": "Jauniešu politika",
+      "problem": "Zema jauniešu iesaiste lēmumu pieņemšanā, nepietiekama brīvā laika infrastruktūra un psihosociālais atbalsts.",
+      "solution": "Veicināt jauniešu iesaisti no skolas līdz domes līmenim, veidot mūsdienīgas satikšanās vietas, nodrošināt mentālās veselības un sociālo atbalstu."
+    },
+    {
+      "subject": "Mājokļu vide",
+      "problem": "Zema pārvaldīšanas kvalitāte, nepietiekams atbalsts siltināšanai, slikts pagalmu un piebraucamo ceļu stāvoklis, ierobežota pieejamu īres dzīvokļu pieejamība.",
+      "solution": "Uzlabot pašvaldības pārvaldnieka darbu, palielināt atbalstu siltināšanai, sakārtot pagalmu infrastruktūru, veicināt pieejamu īres mājokļu būvniecību jaunajām ģimenēm."
+    }
+  ]

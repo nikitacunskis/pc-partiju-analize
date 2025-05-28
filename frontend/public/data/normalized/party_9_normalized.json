@@ -1,0 +1,82 @@
+[
+    {
+      "subject": "Ekonomiskā attīstība",
+      "problem": "Rīgai trūkst mērķtiecīgas ekonomiskās attīstības un investīciju piesaistes.",
+      "solution": "Piesaistīt miljardiem lielas investīcijas, attīstīt biznesa, kultūras, izklaides, izglītības, sporta, medicīnas tūrismu, veicināt kinoindustriju, IT nozari, inovācijas un jaunuzņēmumus."
+    },
+    {
+      "subject": "Tūrisms un starptautiskā sadarbība",
+      "problem": "Nepietiekama tūristu piesaiste un starptautiskā savienojamība.",
+      "solution": "Atjaunot prāmju satiksmi ar Stokholmu, veicināt kruīzu kuģu ienākšanu, sadarboties ar aviokompānijām un tūrisma operatoriem."
+    },
+    {
+      "subject": "Infrastruktūra un pilsētvide",
+      "problem": "Rīgas infrastruktūra ir novecojusi, pastāv problēmas ar stāvvietām, bērnu laukumiem, tiltu stāvokli, ielu stabiņiem, tukšām telpām centrā.",
+      "solution": "Būvēt jaunas stāvvietas, iekšpagalmus, soliņus; rekonstruēt tilti; aizvākt nevajadzīgos stabiņus; uzlabot veloceliņu struktūru; stimulēt centra telpu apdzīvošanu ar NĪN atlaidēm; veikt kvartālu līmeņa renovācijas."
+    },
+    {
+      "subject": "Mājokļi un sociālā infrastruktūra",
+      "problem": "Nepietiekams siltināto mājokļu un sociālās aprūpes centru apjoms, vizuāli degradēti mikrorajoni.",
+      "solution": "Attīstīt mājokļu siltināšanas programmas, būvēt jaunus īres namus un sociālās aprūpes centrus."
+    },
+    {
+      "subject": "Sabiedriskais transports",
+      "problem": "Nepieejams vai dārgs sabiedriskais transports.",
+      "solution": "Nodrošināt bezmaksas sabiedrisko transportu visiem."
+    },
+    {
+      "subject": "Sociālais atbalsts",
+      "problem": "Nepietiekams atbalsts ģimenēm ar bērniem, pensionāriem un cilvēkiem ar īpašām vajadzībām.",
+      "solution": "Piešķirt 2000 eiro par katru jaundzimušo; piešķirt 200 eiro gadā zālēm pensionāriem; nodrošināt brīvpusdienas bērniem līdz 9. klasei; piešķirt stipendijas labākajiem studentiem."
+    },
+    {
+      "subject": "Izglītība, kultūra un jaunatnes atbalsts",
+      "problem": "Nepietiekama pieejamība interešu izglītībai un kultūras iespējām bērniem un jauniešiem.",
+      "solution": "Nodrošināt pieejamību sporta, kultūras, mākslas un mūzikas skolām, pulciņiem un vasaras nometnēm; uzbūvēt koncertzāli un laikmetīgās mākslas muzeju."
+    },
+    {
+      "subject": "Veselība un sports",
+      "problem": "Nepietiekamas iespējas veselīgam dzīvesveidam visās vecuma grupās.",
+      "solution": "Attīstīt sporta infrastruktūru pilsētā."
+    },
+    {
+      "subject": "Drošība",
+      "problem": "Zema drošības sajūta, īpaši bērnu un skolēnu vidū; problēmas ar narkotiku tirdzniecību.",
+      "solution": "Modernizēt pašvaldības policijas aprīkojumu un paaugstināt atalgojumu."
+    },
+    {
+      "subject": "Pārvaldība un birokrātija",
+      "problem": "Pārmērīga birokrātija, ierēdņu neefektivitāte, soda politika pret iedzīvotājiem.",
+      "solution": "Samazināt ierēdņu skaitu par 30%, uzlabot lēmumu pieņemšanas ātrumu, aizvietot sodus ar brīdinājumiem, padarīt domi par vienas pieturas aģentūru uzņēmējiem."
+    },
+    {
+      "subject": "Uzņēmējdarbības vide",
+      "problem": "Pašvaldības attieksme nav pietiekami atbalstoša uzņēmējiem.",
+      "solution": "Sadarboties ar uzņēmēju organizācijām (LTRK, LDDK), atbalstīt projektus, kas veicina pilsētas attīstību."
+    },
+    {
+      "subject": "Pilsētas transports un loģistika",
+      "problem": "Haotisks transporta plānojums, pārblīvētas ielas, novecojuši tilti.",
+      "solution": "Izbūvēt Ziemeļu maģistrāli, rekonstruēt Vanšu tiltu un citus tiltus, plānot transporta shēmu plānveidīgi."
+    },
+    {
+      "subject": "Ielu vide un mobilitāte",
+      "problem": "Neloģiska un traucējoša ielu infrastruktūra, nepieejamas āra terases un tukši veloceliņi ziemā.",
+      "solution": "Aizvākt stabiņus, pārveidot veloceliņu struktūru, ieviest gājēju ielas un atvieglot terasu saskaņošanu visam gadam."
+    },
+    {
+      "subject": "Publiskie pasākumi un pilsētas dzīvīgums",
+      "problem": "Zems pilsētas dzīvīguma līmenis un tūristu piesaiste.",
+      "solution": "Rīkot izklaides pasākumus, kas piesaista iedzīvotājus un tūristus."
+    },
+    {
+      "subject": "Ceļu uzturēšana",
+      "problem": "Nesavlaicīgi un slikti organizēti ielu remontdarbi, kas izraisa sastrēgumus.",
+      "solution": "Plānot un veikt ielu remontus savlaicīgi, izvairoties no sastrēgumiem."
+    },
+    {
+      "subject": "Līderība un politiskā atbildība",
+      "problem": "Pašvaldības vadība izvairās no politiskās atbildības.",
+      "solution": "Iecelt mēru, kurš uzņemas personīgu politisko atbildību par pilsētas attīstību."
+    }
+  ]

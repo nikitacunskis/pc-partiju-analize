@@ -1,0 +1,156 @@
+[
+    {
+      "subject": "Rīgas starptautiskā loma",
+      "problem": "Nepietiekama atpazīstamība un aktivitāšu koncentrācija Rīgā reģionālā mērogā.",
+      "solution": "Pozicionēt Rīgu kā vadošo Baltijas galvaspilsētu ar nozīmīgiem pasākumiem, tūrisma un sadarbības centru.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pilsētas starptautiskās lomas un tūrisma jautājumiem."
+    },
+    {
+      "subject": "Vide ģimenēm",
+      "problem": "Nepietiekams atbalsts ģimenēm un nepiemērota pilsētvide dažādām iedzīvotāju grupām.",
+      "solution": "Veidot mājīgu, labiekārtotu un atbalstošu vidi visām iedzīvotāju grupām, stiprinot ģimenes institūciju.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis ģimeņu atbalsta un vispārējas pilsētvides jautājumiem."
+    },
+    {
+      "subject": "Izglītība un bērnu labklājība",
+      "problem": "Nepieejama vai nepietiekama izglītība un veselības aprūpe bērniem.",
+      "solution": "Nodrošināt pieejamu pirmsskolas izglītību bez rindām, finansējumu interešu izglītībai un atbalstu vecākiem.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis izglītības un bērnu labklājības jautājumiem."
+    },
+    {
+      "subject": "Dzimstība un bērna piedzimšanas pabalsti",
+      "problem": "Zems bērna piedzimšanas pabalsts un samazināta dzimstība.",
+      "solution": "Palielināt bērna piedzimšanas pabalstu, lai veicinātu demogrāfiskos rādītājus.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis dzimstības un pabalstu jautājumiem."
+    },
+    {
+      "subject": "Pašvaldības pārvaldība",
+      "problem": "Nelietderīga funkciju izpilde, pārklāšanās un augsta birokrātija domes struktūrās.",
+      "solution": "Veikt auditus domes struktūrvienībās, lai optimizētu funkcijas, samazinātu izmaksas un birokrātiju.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pašvaldības pārvaldības jautājumiem."
+    },
+    {
+      "subject": "Lēmumu pieņemšana",
+      "problem": "Nepārskatāmi, neuzticami procesi un maldinoša komunikācija ar sabiedrību.",
+      "solution": "Ieviest sistēmisku pieeju pārvaldībā, balstīt lēmumus uz cilvēku labklājību.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis lēmumu pieņemšanas un pārvaldības jautājumiem."
+    },
+    {
+      "subject": "Sabiedrības veselība",
+      "problem": "Nepietiekama infrastruktūra veselīgam dzīvesveidam un sabiedriskajai aktivitātei.",
+      "solution": "Izveidot spēļu un sporta laukumus visās apkaimēs, veicināt veselīgas aktivitātes.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sabiedrības veselības un sporta infrastruktūras jautājumiem."
+    },
+    {
+      "subject": "Pašvaldības pakalpojumu pieejamība",
+      "problem": "Sarežģīta piekļuve pakalpojumiem un nepieciešamība pēc iepriekšēja pieraksta.",
+      "solution": "Nodrošināt klātienes piekļuvi pašvaldības iestādēs bez iepriekšēja pieraksta un oficiāla iesnieguma.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pašvaldības pakalpojumu pieejamības jautājumiem."
+    },
+    {
+      "subject": "Drošība un infrastruktūra",
+      "problem": "Nepietiekama aizsardzība ārkārtas situācijās un kustības ērtības pilsētā.",
+      "solution": "Izbūvēt pazemes stāvvietas, kas kalpo arī kā patvertnes ārkārtas situācijās.",
+      "match": "Full mismatch",
+      "explanation": "Saskan ar Program A 'Autonovietņu politika' tēmu, bet problēmas interpretācija un risinājums ir pretrunā ar Program A. Program A piedāvā samazināt stāvvietu skaitu centrā un paaugstināt to cenas, kamēr Program B piedāvā izbūvēt jaunas pazemes stāvvietas."
+    },
+    {
+      "subject": "Budžeta pārvaldība",
+      "problem": "Nesabalansēts budžets un neefektīvi tēriņi.",
+      "solution": "Veidot sabalansētu budžetu ar pārdomātiem tēriņiem, piesaistot ES projektus un novēršot funkciju pārklāšanos.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis budžeta pārvaldības jautājumiem."
+    },
+    {
+      "subject": "Pēcdzemdību atbalsts",
+      "problem": "Trūkst emocionālā un praktiskā atbalsta jaunajiem vecākiem.",
+      "solution": "Iekārtot dzemdību nama apkārtni ģimenēm draudzīgu, ieviest PEP mammas un nodrošināt psiholoģisko atbalstu.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pēcdzemdību atbalsta jautājumiem."
+    },
+    {
+      "subject": "Izglītības kvalitāte un pieejamība",
+      "problem": "Nevienlīdzīga piekļuve kvalitatīvai izglītībai un aktivitātēm bērniem.",
+      "solution": "Nodrošināt piekļuvi labākajai izglītībai, interešu centriem un sporta laukumiem.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis izglītības kvalitātes un pieejamības jautājumiem."
+    },
+    {
+      "subject": "Uzņēmējdarbības vide",
+      "problem": "Nepietiekams pašvaldības atbalsts uzņēmējiem.",
+      "solution": "Pašvaldība atbalsta uzņēmējdarbību, īpaši tūrismā, kulinārijā, kultūrā, izglītībā un veselībā.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis uzņēmējdarbības vides jautājumiem."
+    },
+    {
+      "subject": "Komerctelpu politika un degradētās teritorijas",
+      "problem": "Augsti nodokļi un slikts stāvoklis vēsturiskajā centrā.",
+      "solution": "Samazināt nodokļus un uzlabot nomas nosacījumus kafejnīcām un restorāniem, labiekārtot degradētās teritorijas.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis komerctelpu politikas un nodokļu jautājumiem."
+    },
+    {
+      "subject": "Pilsētvides labiekārtojums",
+      "problem": "Nepietiekams ielu labiekārtojums un atpūtas infrastruktūra.",
+      "solution": "Nodrošināt soliņus, nojumēm aprīkotas pieturas un atkritumu tvertnes visā pilsētā.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Ietves un veloinfrastruktūra apkaimēs' - problēma (nepietiekams ielu labiekārtojums) ir līdzīga, un risinājums (nojumēm aprīkotas pieturas) daļēji saskan ar Program A minēto sabiedriskā transporta pieturvietu uzlabošanu, bet Program B nefokusējas uz veloinfrastruktūras attīstību, kas ir Program A prioritāte."
+    },
+    {
+      "subject": "Apkaimju attīstība",
+      "problem": "Dažādās apkaimēs trūkst vienlīdzīgas pieejas kultūrai, sportam un pakalpojumiem.",
+      "solution": "Katru apkaimi aprīkot ar iedzīvotāju centriem, sporta laukumiem un kultūras iespējām visām vecuma grupām.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis apkaimju attīstības un kultūras pieejamības jautājumiem."
+    },
+    {
+      "subject": "Iedzīvotāju līdzdalība",
+      "problem": "Zema sabiedrības iesaiste lēmumu pieņemšanā un līdzdalības projektu īstenošanā.",
+      "solution": "Nodrošināt finansējumu līdzdalības projektiem, rīkot seminārus un apmācības, īpaši senioriem.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis iedzīvotāju līdzdalības jautājumiem."
+    },
+    {
+      "subject": "Tūrisms un kultūras mantojums",
+      "problem": "Nepietiekama Rīgas kā tūrisma galamērķa izmantošana.",
+      "solution": "Attīstīt veselīgās aktivitātes un izmantot Rīgas vēsturisko mantojumu, lai veicinātu Latvijas atpazīstamību.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis tūrisma un kultūras mantojuma jautājumiem."
+    },
+    {
+      "subject": "Korupcijas riski un iepirkumu kontrole",
+      "problem": "Iespējamā korupcija un neefektīva līdzekļu izmantošana.",
+      "solution": "Ieviest korupcijas risku pārvaldību un pastiprinātu iepirkumu kontroli.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis korupcijas risku un iepirkumu kontroles jautājumiem."
+    },
+    {
+      "subject": "Transports un satiksme",
+      "problem": "Nepārdomāta satiksmes organizācija un pārvietošanās ērtību trūkums.",
+      "solution": "Integrēt sabiedrisko transportu ar vilcieniem, ierobežot elektrisko skrejriteņu izmantošanu un uzlabot biļešu iegādes iespējas.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Sabiedriskais transports' - problēma (nepārdomāta satiksmes organizācija) ir līdzīga, un risinājums (integrēt sabiedrisko transportu ar vilcieniem) saskan ar Program A minēto vienotās biļetes ieviešanu ar vilcienu, bet Program B nefokusējas uz metrobusa projektu un sabiedriskā transporta joslām, kas ir Program A prioritātes."
+    },
+    {
+      "subject": "Veselības aprūpe ģimenēm un senioriem",
+      "problem": "Nepietiekamas iespējas veselības atjaunošanai.",
+      "solution": "Ieviest mērķdotācijas fizioterapijai, zobārstniecībai, masāžai, sportam un kultūrai.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis veselības aprūpes jautājumiem."
+    },
+    {
+      "subject": "Drošība un sociālā labklājība",
+      "problem": "Nepietiekama aizsardzība un atbalsts sociālajām grupām.",
+      "solution": "Stiprināt pašvaldības policijas funkciju cilvēku drošības nodrošināšanā, rūpēties par dzīvniekiem, nodrošināt bezmaksas ēdināšanu skolās un NĪN atlaides.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis drošības un sociālās labklājības jautājumiem."
+    }
+]

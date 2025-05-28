@@ -1,0 +1,65 @@
+[
+    {
+      "subject": "Ielu un sabiedriskā transporta infrastruktūra",
+      "problem": "Ielas un ietves ir sliktā stāvoklī, sabiedriskā transporta efektivitāte un piekļuve ir nepietiekama, skolēnu ceļš uz skolu nav pietiekami drošs.",
+      "solution": "Veikt plānveidīgus un kvalitatīvus ielu remontus, izbūvēt gājēju pārejas, apgaismojumu, soliņus un kokus; palielināt sabiedriskā transporta joslu skaitu; savienot apkaimes ar sabiedriskā transporta un veloceļu tīklu; nodrošināt reālu drošību skolēniem ceļā uz skolu.",
+      "match": "Perfect match",
+      "explanation": "Pilnībā atbilst vairākām Program A tēmām: 'Ietves un veloinfrastruktūra apkaimēs', 'Sabiedriskais transports', 'Skolu tuvumā esošā infrastruktūra' un 'Maģistrālo ielu pievilcība un pieejamība'. Gan problēma (slikts ielu un ietvju stāvoklis, nepietiekama sabiedriskā transporta efektivitāte, nedrošs ceļš uz skolu), gan risinājums (ielu remonti, sabiedriskā transporta joslas, veloceļu tīkls, drošība skolēniem) pilnībā saskan ar Program A."
+    },
+    {
+      "subject": "Pašvaldības pārvaldība un budžeta plānošana",
+      "problem": "Nepietiekama caurspīdība, augstas izmaksas iepirkumos, korupcija, budžeta īstermiņa plānošana, ierobežota iedzīvotāju iesaiste lēmumu pieņemšanā.",
+      "solution": "Veicināt konkurenci iepirkumos, izskaust korupciju, plānot budžetu trīs gadu periodam, rīkot konsultatīvos referendumus par nozīmīgiem jautājumiem.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pašvaldības pārvaldības un budžeta plānošanas jautājumiem."
+    },
+    {
+      "subject": "Sabiedriskā drošība un krīzes gatavība",
+      "problem": "Nepietiekama aizsardzība ārkārtas situācijās, zema sabiedrības gatavība krīzēm, nepietiekami atalgoti un apmācīti pašvaldības policisti.",
+      "solution": "Izveidot patvertnes jaunās pašvaldības ēkās un daudzdzīvokļu namos, iesaistīt apkaimju biedrības drošības veicināšanā, organizēt krīzes mācības, palielināt algas un apmācības pašvaldības policijā.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sabiedriskās drošības un krīzes gatavības jautājumiem."
+    },
+    {
+      "subject": "Ekonomiskā attīstība",
+      "problem": "Zema investīciju piesaiste, nepietiekams atbalsts uzņēmējdarbībai, birokrātiski šķēršļi, nesamērīgas iemaksas Pašvaldību izlīdzināšanas fondā.",
+      "solution": "Palielināt pašvaldības iesaisti investīciju piesaistē, organizēt starptautiskus pasākumus, samazināt birokrātiju, panākt taisnīgākas iemaksas fondā.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis ekonomiskās attīstības un investīciju piesaistes jautājumiem."
+    },
+    {
+      "subject": "Izglītība un kultūra",
+      "problem": "Nepietiekama izpratne par kvalitatīvu izglītību, izglītības nesaskaņotība ar bērnu vajadzībām, trūkst atbalsta pedagogiem un kultūras sektora nepietiekams finansējums.",
+      "solution": "Attīstīt iekļaujošu izglītību, pielāgot mācības bērnu vajadzībām, nodrošināt atbalstu pedagogiem un skolu vadītājiem, veicināt līdzdalību lēmumu pieņemšanā, uzlabot kultūras iestāžu infrastruktūru un līdzfinansējuma plānošanu, atbalstīt koncertzāles un mākslas muzeja attīstību.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis izglītības un kultūras jautājumiem."
+    },
+    {
+      "subject": "Vides aizsardzība un zaļā pilsētvide",
+      "problem": "Pārmērīga atkritumu dedzināšana, piesārņojums no transporta, nepietiekami attīstīta zaļā infrastruktūra.",
+      "solution": "Prioritēt atkritumu šķirošanu un samazināšanu, ieviest zemo emisiju zonu, ieguldīt parkos un suņu laukumos, uzlabot piekļuvi ūdensmalai Rīgas centrā.",
+      "match": "Partly match",
+      "explanation": "Daļēji saskan ar Program A 'Pilsētas centra gājēju infrastruktūra' un 'Maģistrālo ielu pievilcība un pieejamība' - problēma (piesārņojums no transporta, nepietiekami attīstīta zaļā infrastruktūra) ir līdzīga, un risinājums (zemo emisiju zona, uzlabota piekļuve ūdensmalai) daļēji saskan ar Program A, bet Program B ietver arī citus elementus, kas nav Program A fokusā."
+    },
+    {
+      "subject": "Sociālie pakalpojumi",
+      "problem": "Nepietiekami resursi sociālajā jomā, zems sociālo darbinieku atalgojums, nepietiekami pielāgoti pakalpojumi iedzīvotāju vajadzībām.",
+      "solution": "Novirzīt vismaz 10% budžeta sociālajai jomai, palielināt sociālā darba speciālistu algas, attīstīt mūsdienīgus un iekļaujošus pakalpojumus, īpaši bērniem ar funkcionāliem traucējumiem.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sociālo pakalpojumu jautājumiem."
+    },
+    {
+      "subject": "Jauniešu politika",
+      "problem": "Zema jauniešu iesaiste lēmumu pieņemšanā, nepietiekama brīvā laika infrastruktūra un psihosociālais atbalsts.",
+      "solution": "Veicināt jauniešu iesaisti no skolas līdz domes līmenim, veidot mūsdienīgas satikšanās vietas, nodrošināt mentālās veselības un sociālo atbalstu.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis jauniešu politikas jautājumiem."
+    },
+    {
+      "subject": "Mājokļu vide",
+      "problem": "Zema pārvaldīšanas kvalitāte, nepietiekams atbalsts siltināšanai, slikts pagalmu un piebraucamo ceļu stāvoklis, ierobežota pieejamu īres dzīvokļu pieejamība.",
+      "solution": "Uzlabot pašvaldības pārvaldnieka darbu, palielināt atbalstu siltināšanai, sakārtot pagalmu infrastruktūru, veicināt pieejamu īres mājokļu būvniecību jaunajām ģimenēm.",
+      "match": "Neutral",
+      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis mājokļu vides jautājumiem."
+    }
+  ]

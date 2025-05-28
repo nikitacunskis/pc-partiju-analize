@@ -1,0 +1,37 @@
+[
+  {
+    "subject": "Pārvalde un finanses",
+    "problem": "Nepietiekama pārvaldes efektivitāte un pieejamība; netaisnīga finanšu izlīdzināšana; nesamērīgs nekustamā īpašuma nodoklis; neefektīva pašvaldības īpašumu pārvaldība; ierobežota sabiedrības līdzdalība un birokrātiski šķēršļi MVU iesaistei iepirkumos.",
+    "solution": "Ieviest efektīvu un pieejamu pārvaldi; pārskatīt pašvaldību finanšu izlīdzināšanas fondu; noteikt NĪN atbilstoši maksātspējai; sistemātiski pārvaldīt pašvaldības īpašumus; attīstīt apkaimju biedrību iesaisti pārvaldē; samazināt birokrātiju MVU iepirkumos."
+  },
+  {
+    "subject": "Uzņēmējdarbība",
+    "problem": "Zema privāto komersantu motivācija darboties Rīgā; ierobežotas iespējas mazajiem un vidējiem uzņēmumiem; nepietiekama sadarbība ar vietējiem uzņēmējiem un stagnējošs komerctelpu tirgus.",
+    "solution": "Veicināt uzņēmējdarbību, īpaši vēsturiskajā centrā; ieviest atbalsta programmas MVU; veicināt sadarbību starp pašvaldības kapitālsabiedrībām un vietējiem uzņēmējiem; stimulēt komerctelpu nomas tirgu."
+  },
+  {
+    "subject": "Sociālā joma",
+    "problem": "Nepieejama informācija par pakalpojumiem; ierobežoti sociālie pakalpojumi dažādām grupām; nepietiekams atbalsts ģimenēm, bērniem un NVO; birokrātiski šķēršļi dokumentu iegūšanai; nepietiekama vides pieejamība.",
+    "solution": "Padarīt informāciju saprotamu un pieejamu; attīstīt dienas centrus un nodot funkcijas NVO; nodrošināt bezmaksas sporta nodarbības un ēdināšanu bērniem; pārskatīt jaundzimušo pabalstu un ieviest 'skolas somu'; sniegt atbalstu grūtniecēm un vientuļajiem vecākiem; sadarboties ar institūcijām dokumentu saņemšanai; uzlabot pilsētvides pieejamību; finansēt NVO projektu īstenošanu jauniešu un kultūras labiekārtošanai."
+  },
+  {
+    "subject": "Kultūra",
+    "problem": "Nepietiekama nacionālās identitātes reprezentācija kultūrā; slikti uzturēti kultūras pieminekļi; ierobežotas iespējas jauniešu iniciatīvām; pārlieku daudz nenacionālu pasākumu centrā.",
+    "solution": "Izveidot mūsdienīgu kultūrtelpu ar akcentu uz Latvijas vēsturi; uzturēt un atjaunot kultūras pieminekļus; atbalstīt jauniešu organizācijas un iniciatīvas; ierobežot pasākumus bez nacionālas nozīmes pilsētas centrā."
+  },
+  {
+    "subject": "Pilsētvide",
+    "problem": "Zema ēku energoefektivitāte; neattīstīti daudzdzīvokļu iekšpagalmi; nepietiekami bērnu laukumi un atpūtas vietas; piesārņojums ar gaismu, troksni un putekļiem; slikta fasāžu un atkritumu apsaimniekošana.",
+    "solution": "Ieviest motivējošu energoefektivitātes politiku; labiekārtot publiskās ārtelpas, tostarp iekšpagalmus; nodrošināt drošus spēļu laukumus un atpūtas zonas; kontrolēt gaismas un trokšņu piesārņojumu; veicināt fasāžu uzturēšanu; ieviest pasākumus putekļu mazināšanai; uzlabot atkritumu nodošanas, šķirošanas un otrreizējas lietošanas iespējas."
+  },
+  {
+    "subject": "Drošība",
+    "problem": "Nepietiekams drošības līmenis pilsētvidē; iedzīvotāju neinformētība par rīcību krīzēs; zema iedzīvotāju līdzdalība drošības veidošanā; ierobežotas pašvaldības policijas pilnvaras.",
+    "solution": "Izveidot drošību veicinošu pilsētvides dizainu; informēt iedzīvotājus par civilās aizsardzības pasākumiem; veicināt iedzīvotāju pašorganizēšanos drošībai; palielināt pašvaldības policijas pilnvaras un atbildību."
+  },
+  {
+    "subject": "Satiksme",
+    "problem": "Neefektīva satiksmes organizācija; nepietiekamas privilēģijas vecākiem pie izglītības iestādēm; slikta sabiedriskā transporta savienojamība ar lidostu; nedroši elektrisko skrejriteņu lietošanas noteikumi; neelastīga autostāvvietu sistēma; transporta noslodze centrā.",
+    "solution": "Pārskatīt satiksmes organizāciju un joslu izmantošanu; piešķirt stāvvietu priekšrocības vecākiem pie skolām; nodrošināt sabiedriskā transporta savienojumu ar lidostu; noteikt drošības prasības skrejriteņu nomas uzņēmumiem; pārskatīt maksas stāvvietu sistēmu; izveidot stāvparkus pie sabiedriskā transporta tīkliem."
+  }
+]

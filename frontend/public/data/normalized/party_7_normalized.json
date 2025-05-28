@@ -1,0 +1,77 @@
+[
+    {
+      "subject": "Izglītības sistēma",
+      "problem": "Nepietiekami pieejama un kvalitatīva izglītība, slēgtas skolas, nepietiekami atalgojums pedagogiem, zema prasību kvalitāte.",
+      "solution": "Atjaunot slēgtās un atvērt jaunas skolas, nodrošināt pilnībā bezmaksas izglītību (ieskaitot mācību grāmatas un pusdienas), palielināt pedagogu atalgojumu un prasības, organizēt fakultatīvus dzimtajā valodā."
+    },
+    {
+      "subject": "Bērnudārzi",
+      "problem": "Pieejamības trūkums, rindas, izmaksas, nepietiekams skaits un zema personāla kvalitāte.",
+      "solution": "Nodrošināt bezmaksas bērnudārzus bez rindām (ar pusdienām un visām izmaksām), palielināt to skaitu, uzlabot personāla kvalitāti, pakļaut darbību īpašai kontrolei."
+    },
+    {
+      "subject": "Atbalsts ģimenēm ar bērniem",
+      "problem": "Nepietiekams finansiālais atbalsts bērnu dzimšanas gadījumos.",
+      "solution": "Vienreizējs maksājums 1000 eiro par pirmo un otro bērnu, 5000 eiro par trešo un katru nākamo bērnu."
+    },
+    {
+      "subject": "Bērnu un jauniešu brīvā laika aktivitātes",
+      "problem": "Nepietiekams finansējums klubiem, sporta sekcijām un pulciņiem.",
+      "solution": "Pārskatīt kultūras un sporta pasākumu finansēšanas lietderību, novirzīt atbrīvotos līdzekļus bērnu klubiem un sportam, nodrošināt bezmaksas piekļuvi bērnu sportam un pulciņiem."
+    },
+    {
+      "subject": "Pašvaldību uzņēmumi",
+      "problem": "Augstas apsaimniekošanas izmaksas, nevajadzīgs birokrātiskais aparāts, pakalpojumu tarifu pieaugums.",
+      "solution": "Veikt funkcionālo auditu, samazināt izmaksas un birokrātiju, ietaupītos līdzekļus novirzīt sociālajām vajadzībām."
+    },
+    {
+      "subject": "Sabiedriskais transports",
+      "problem": "Ierobežota pieejamība un augstas izmaksas iedzīvotājiem, pārāk daudz transportlīdzekļu uz ielām.",
+      "solution": "Nodrošināt bezmaksas sabiedrisko transportu, kas samazina satiksmes intensitāti un uzlabo ekoloģiju."
+    },
+    {
+      "subject": "Komunālie maksājumi",
+      "problem": "Soda naudas par komunālajiem parādiem palielina iedzīvotāju finansiālo slogu.",
+      "solution": "Pārtraukt soda naudas aprēķināšanu komunālo parādu gadījumos."
+    },
+    {
+      "subject": "Pilsētas infrastruktūra",
+      "problem": "Slikts gājēju un autoceļu stāvoklis mikrorajonos, nevajadzīgi ātruma ierobežojumi un satiksmes ierobežojumi.",
+      "solution": "Labot gājēju un autoceļus mikrorajonos, atcelt 30 km/h ierobežojumu uz pilsētas automaģistrālēm, noņemt stabiņus, kas traucē transporta kustību."
+    },
+    {
+      "subject": "Drošība",
+      "problem": "Nepietiekama videonovērošana pilsētā.",
+      "solution": "Palielināt videonovērošanas kameru skaitu līdz nepieciešamajam līmenim."
+    },
+    {
+      "subject": "Ekonomiskā attīstība",
+      "problem": "Nepietiekams investīciju piesaistes un darba vietu skaits Rīgā, ierobežots tūrisma potenciāls.",
+      "solution": "Radīt labvēlīgus apstākļus investoriem, palielināt piedāvāto darbavietu skaitu, padarīt Rīgu pievilcīgāku tūristiem."
+    },
+    {
+      "subject": "Geju parādes",
+      "problem": "Programma uzskata geju parādes par nevēlamām.",
+      "solution": "Aizliegt geju parādes."
+    },
+    {
+      "subject": "Azartspēles",
+      "problem": "Azartspēles tiek uzskatītas par kaitīgām sabiedrībai.",
+      "solution": "Pilnībā aizliegt azartspēles Rīgas pašvaldības teritorijā."
+    },
+    {
+      "subject": "Pieminekļu politika",
+      "problem": "Nojaukto pieminekļu noņemšana tiek uzskatīta par problēmu.",
+      "solution": "Izveidot sabiedrisko komisiju nojaukto pieminekļu atgriešanai."
+    },
+    {
+      "subject": "Vide un apzaļumošana",
+      "problem": "Nepietiekama zaļā zona pilsētā.",
+      "solution": "Nodrošināt apzaļumošanu visur, kur vien iespējams."
+    },
+    {
+      "subject": "Budžeta līdzekļu izmantošana",
+      "problem": "Nepietiekami kompetenta un sociāli atbildīga pilsētas budžeta līdzekļu izmantošana.",
+      "solution": "Pārvaldīt pilsētas budžetu kompetentāk un sociāli atbildīgāk."
+    }
+  ]

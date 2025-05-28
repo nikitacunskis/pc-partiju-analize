@@ -1,0 +1,52 @@
+[
+    {
+      "subject": "Vanšu tilts un citi tilti",
+      "problem": "Slikts ietves stāvoklis un veloinfrastruktūras trūkums; projektu iepirkumi un būvniecība tiek atlikti bez skaidra termiņa.",
+      "solution": "Ātri uzsākt pārbūves projektus, kas ietver drošu un ērtu veloinfrastruktūru; sakārtot arī Gaisa tiltu un Gustava Zemgala pārvadu."
+    },
+    {
+      "subject": "Pilsētas centra gājēju infrastruktūra",
+      "problem": "Tuneļi un nepietiekamas gājēju pārejas apgrūtina pārvietošanos; dominējoša autotransporta klātbūtne un nepieejama vide gājējiem.",
+      "solution": "Izveidot virszemes gājēju pārejas; ierobežot autotransportu; izveidot gājēju ielas un pievilcīgu ūdensmalu."
+    },
+    {
+      "subject": "Maģistrālo ielu pievilcība un pieejamība",
+      "problem": "Nepievilcīgas ielas ar intensīvu autosatiksmi, trūkst veloinfrastruktūras, sabiedriskā transporta joslu, apstādījumu un pieejamības.",
+      "solution": "Samazināt satiksmes intensitāti un ātrumu; izbūvēt veloceliņus, sabiedriskā transporta joslas, apstādījumus; nodrošināt pieejamību."
+    },
+    {
+      "subject": "Būvdarbu organizācija",
+      "problem": "Gājējiem un velobraucējiem netiek nodrošināts ērts un drošs ceļš būvdarbu laikā; prioritāte tiek dota autovadītājiem.",
+      "solution": "Plānot būvdarbus tā, lai netiktu apgrūtināta mazāk aizsargāto satiksmes dalībnieku kustība."
+    },
+    {
+      "subject": "Autonovietņu politika",
+      "problem": "Autonovietņu koncepcija netiek ieviesta; ielu malas tiek izmantotas bez maksas; pieprasījums pārsniedz piedāvājumu.",
+      "solution": "Ieviest koncepciju, paaugstināt stāvvietu cenas, samazināt to skaitu centrā, ierobežot bezmaksas novietošanu."
+    },
+    {
+      "subject": "Sabiedriskais transports",
+      "problem": "Lēna attīstība, trūkst infrastruktūras, reti maršruti, nakts transports minimāls, nav integrācijas ar vilcienu.",
+      "solution": "Realizēt metrobusa projektu; izbūvēt sabiedriskā transporta joslas; ieviest vienotu biļeti ar vilcienu; palielināt reisu biežumu."
+    },
+    {
+      "subject": "Skolu tuvumā esošā infrastruktūra",
+      "problem": "Programma “Drošs ceļš uz skolu” tiek īstenota formāli, netiek veikti būtiski infrastruktūras uzlabojumi.",
+      "solution": "Izbūvēt paceltus krustojumus un gājēju pārejas; ierīkot ielu posmus tikai gājējiem pie skolām."
+    },
+    {
+      "subject": "Ietves un veloinfrastruktūra apkaimēs",
+      "problem": "Trūkst vai ir sliktā stāvoklī; jaunas izbūves notiek lēni un nelielos posmos; nepietiekams gājēju pāreju un pieturvietu aprīkojums.",
+      "solution": "Paātrināt ietvju un veloceliņu izbūvi; paplašināt gājēju pāreju tīklu; uzlabot sabiedriskā transporta pieturvietas un segumu kvalitāti."
+    },
+    {
+      "subject": "Jauno projektu plānošana",
+      "problem": "Attīstītājiem tiek prasīts nodrošināt autostāvvietas uz tā paša zemesgabala, kas noved pie dominējošas auto infrastruktūras ap dzīvojamo fondu.",
+      "solution": "Mainīt prasības attīstītājiem, samazinot obligāto stāvvietu daudzumu dzīvojamos projektos."
+    },
+    {
+      "subject": "Prioritāšu sadale pilsētas attīstībā",
+      "problem": "Pilsētas investīcijas koncentrētas uz lieliem autoinfrastruktūras projektiem, maz pievēršoties gājēju un sabiedriskā transporta vajadzībām.",
+      "solution": "Pārorientēt investīcijas uz mazāk aizsargāto satiksmes dalībnieku un sabiedriskā transporta infrastruktūras uzlabošanu."
+    }
+  ]

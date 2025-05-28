@@ -1,0 +1,27 @@
+[
+    {
+      "subject": "Drošība un mājoklis",
+      "problem": "Nepietiekami drošības pasākumi, zems policistu atalgojums, nepietiekama patvertņu pieejamība, lieka birokrātija un korupcija, dzīvokļu trūkums, novecojušas dzīvojamās mājas un lifti.",
+      "solution": "Piešķirt 5% pilsētas budžeta drošībai; palielināt atalgojumu un modernizēt policijas aprīkojumu; ieviest jaunas videonovērošanas tehnoloģijas; izveidot patvertnes pašvaldības ēku pagrabos un atbalstīt pagrabu sakārtošanu privātīpašumos; mobilā saziņas aplikācija un civilās aizsardzības apmācības; samazināt birokrātiju un ieviest nulles toleranci pret korupciju; uzbūvēt 15 000 jaunu dzīvokļu, 1000 īres dzīvokļu jaunajiem profesionāļiem; renovēt dzīvojamās mājas, siltināt 700 daudzdzīvokļu namus, atjaunot vēsturiskos namus un atbalstīt liftu nomaiņu."
+    },
+    {
+      "subject": "Satiksme un ielas",
+      "problem": "Slikts ielu un ietvju stāvoklis, grants un smilšu segumi, tiltu nolietojums, vājš sabiedriskā transporta savienojums ar dzelzceļu, zema satiksmes drošība, nepietiekami sabiedriskā transporta maršruti un pieejamība, nevienlīdzīga autostāvvietu maksa.",
+      "solution": "Investēt 1 miljardu eiro ielu un ietvju remontā un pārbūvē; izbeigt grants un smilšu segumu; izbūvēt Kundziņsalas un Dienvidu tiltu, pārbūvēt Vanšu, Gaisa tiltus un Vairoga pārvadu; projektēt Brīvības ielas divlīmeņu krustojumu; integrēt dzelzceļu sabiedriskajā transportā, izveidot 15 pārsēšanās punktus, ieviest vienoto biļeti; ierobežot satiksmi pie skolām un slimnīcām, uzlabot gājēju pārejas un veloceļus; padarīt sabiedrisko transportu ērtāku, atjaunot nakts maršrutus, izbūvēt metrobusa līniju; diferencēt autostāvvietu maksu, saglabājot cenas rīdziniekiem un ieņēmumus izmantot jaunu tramvaju iegādei."
+    },
+    {
+      "subject": "Pilsētvide",
+      "problem": "Nepietiekama infrastruktūra augstskolām, nesakārtota apkārtne, degradēti parki un sabiedriskās telpas, slikta piekļuve ielām un gājēju pārejām, vāja apgaismojuma un pilsētvides kvalitāte, nesakārtoti iekšpagalmi.",
+      "solution": "Izbūvēt infrastruktūru Pārdaugavas augstskolām, labiekārtot apkārtni un uzbūvēt Zunda kanāla tiltu; sakārtot AB dambi; labiekārtot Esplanādi, Kronvalda parku, Bastejkalnu un Lielos kapus; apzaļumot ielas un stādīt jaunus kokus; pārbūvēt Vaļņu ielu, uzlabot pieejamību; izveidot virszemes gājēju pārejas starp Centrāltirgu un bulvāru loku; uzlabot ielu apgaismojumu un pilsētvidi 15 apkaimēs; sakārtot iekšpagalmus pie nosiltinātajām mājām un skolām."
+    },
+    {
+      "subject": "Ģimene un izglītība",
+      "problem": "Nepietiekami izglītības rezultāti, nepietiekams atbalsts skolotājiem, novecojusi izglītības infrastruktūra, nepietiekamas sporta un brīvā laika iespējas, svešvalodu izvēle neatbilst mūsdienu prasībām, ierobežota sabiedrības līdzdalība un atbalsts ģimenēm ar īpašām vajadzībām.",
+      "solution": "Izveidot Zinātnes skolu tīklu, kur izglītība apvienota ar praksi un pētniecību; palielināt atbalstu skolotājiem ar veselības apdrošināšanu, mentoru sistēmu un dzīvesvietas atbalstu; ieguldīt mācību vides modernizēšanā un sporta infrastruktūrā; uzbūvēt jaunu skolu Mežaparkā un jaunu peldbaseinu; izveidot sporta laukumus 7 apkaimēs un 5 slēgtās sporta halles; ieviest peldētapmācību; dubultot finansējumu jauniešu vasaras nometnēm; nomainīt krievu valodu ar vācu un Ziemeļvalstu valodām; atbalstīt biedrību iniciatīvas un veidot Kopienu centrus; vienkāršot sociālo atbalstu, veidot programmas daudzbērnu ģimenēm, senioriem un priekšlaicīgi mācības pametušajiem skolēniem."
+    },
+    {
+      "subject": "Ekonomika un kultūra",
+      "problem": "Nepietiekamas investīcijas ekonomikā un jaunuzņēmumos, zems atbalsts sociālajiem uzņēmējiem, nepietiekama uzņēmēju iesaiste publiskajā infrastruktūrā, kultūras pasākumu un infrastruktūras trūkums.",
+      "solution": "Veikt investīcijas biznesa pakalpojumos, IT un ražošanā, paredzot vidējo algu 2700 eiro līdz 2029. gadam; dubultot atbalstu jaunuzņēmumiem un Rīgas filmu fondam; atbalstīt pirmā stāva ekonomiku un sociālos uzņēmējus; ieviest jaunu programmu uzņēmējiem, kas labiekārto publisko infrastruktūru; dubultot kultūras un mākslas notikumu atbalstu; izveidot bibliotēku «Rīgas modēs» un mākslinieku rezidences; uzcelt Rīgas filharmoniju un sākt Laikmetīgās mākslas muzeja būvniecību."
+    }
+  ]

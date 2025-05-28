@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Mājokļi un dzīvojamie kvartāli",
+    "problem": "Nepietiekams jaunu mājokļu piedāvājums un infrastruktūras trūkums jaunajām ģimenēm.",
+    "solution": "Attīstīt jaunu mājokļu programmu, mazstāvu projektu būvniecību un īres namus ar publiskā un privātā sektora līdzdalību; līdzfinansēt inženiertehnisko infrastruktūru un sagatavošanas izmaksas ēku siltināšanai un rekonstrukcijai."
+  },
+  {
+    "subject": "Satiksme un stāvvietas",
+    "problem": "Sastrēgumi un nepietiekams stāvvietu skaits Rīgas centrā.",
+    "solution": "Atbalstīt daudzstāvu stāvvietu izbūvi transporta mezglos un dzelzceļa tuvumā, attīstīt mikromobilitāti un nodrošināt bezmaksas stāvvietas pirmajām 2 stundām un pēc plkst. 18.00, kā arī sestdienās."
+  },
+  {
+    "subject": "Tūrisms un komercvide",
+    "problem": "Samazināta ēdināšanas un tūrisma aktivitāte; degradēti īpašumi.",
+    "solution": "Novirzīt skatlogu programmas līdzekļus tūrisma piesaistei; atbalstīt tukšo telpu īpašniekus, lai atdzīvinātu pilsētvidi."
+  },
+  {
+    "subject": "Iedzīvotāju līdzdalība un pilsētvides attīstība",
+    "problem": "Vāja iedzīvotāju iesaiste un piederības sajūta apkaimēs.",
+    "solution": "Ieviest apkaimju svētku grantu programmu un palielināt līdzdalības budžetu līdz 10 miljoniem; vienotas ūdensmalu attīstības stratēģijas izveide; multifunkcionāla sporta centra izveide Daugavas kreisajā krastā."
+  },
+  {
+    "subject": "Drošība un civilā aizsardzība",
+    "problem": "Zema drošības sajūta un nepietiekama civilās aizsardzības infrastruktūra.",
+    "solution": "Ieviest mobilu lietotni drošībai un civilai aizsardzībai; izstrādāt civilās aizsardzības plānus ar iedzīvotāju iesaisti; izveidot patvertņu tīklu un atbildīgo personu struktūru; modernizēt pašvaldības policiju un videonovērošanu; izgaismot mikrorajonus; drošības programmas stacijai un centrāltirgum; atbalsta sistēma ielu bērniem un atkarīgajiem jauniešiem."
+  },
+  {
+    "subject": "Pašvaldības pakalpojumi un birokrātija",
+    "problem": "Lēni, sarežģīti un birokrātiski pakalpojumi.",
+    "solution": "Samazināt birokrātiju, padarīt pakalpojumus ātrus un ērtus gan iedzīvotājiem, gan uzņēmējiem."
+  },
+  {
+    "subject": "Būvniecība un investīcijas",
+    "problem": "Neskaidri noteikumi kavē investīcijas un pakalpojumu attīstību.",
+    "solution": "Noteikt skaidrus būvniecības noteikumus, lai palielinātu investīcijas un uzlabotu pakalpojumus."
+  },
+  {
+    "subject": "Siltumapgāde",
+    "problem": "Augsti siltuma tarifi un nesakārtota siltumapgādes sistēma.",
+    "solution": "Ieviest Rīgas siltuma kontrolpaketi, lai sakārtotu sistēmu un samazinātu tarifus."
+  },
+  {
+    "subject": "Sociālā aizsardzība un veselības aprūpe",
+    "problem": "Nepietiekams atbalsts pensionāriem, invalīdiem un trūcīgajām ģimenēm; ierobežota piekļuve veselības pakalpojumiem bērniem.",
+    "solution": "Palielināt atbalstu veselības aprūpei, segt pacienta līdzmaksājumus un ambulatorās izmaksas; piešķirt 100 EUR pabalstu izglītībai maznodrošinātajiem; piešķirt 500 EUR bērna piedzimšanas pabalstu; nodrošināt veselības pakalpojumus bērniem 24/7 režīmā."
+  },
+  {
+    "subject": "Ģimeņu atbalsts un nodokļu atvieglojumi",
+    "problem": "Augstas izmaksas ģimenēm ar bērniem.",
+    "solution": "Ieviest 90% NĪN atlaides ģimenēm ar bērniem."
+  }
+]
