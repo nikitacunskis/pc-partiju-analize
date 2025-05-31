@@ -128,7 +128,7 @@
 
   const partyListDiv = document.getElementById('partyList');
   const contentDiv = document.getElementById('content');
-  let showNeutral = false;
+  let showNeutral = true;
   let lastParty = null;
 
   partyNames.forEach((name, i) => {
@@ -159,11 +159,14 @@
   }
 
   function toggleNeutral() {
-    trackInteraction('neutral_load', {  });
+    trackInteraction('neutral_load', {});
     showNeutral = !showNeutral;
     document.getElementById('toggleNeutral').textContent =
       showNeutral ? "Slēpt 'Neitrālas' tēmas" : "Parādīt arī 'Neitrālas' tēmas";
-    if (window.lastPartyData && window.currentView === 'comparison') renderDetails(window.lastPartyData);
+    if (window.lastPartyData && window.currentView === 'comparison') {
+        renderChart(window.lastPartyData);
+        renderDetails(window.lastPartyData);
+    }
   }
 
   function downloadHTML() {
@@ -287,16 +290,22 @@
 
   function renderChart(data) {
     const ctx = document.getElementById('chart').getContext('2d');
-    const total = data.filter(item => item.match !== "Neitrāli").length;
+    const filteredData = showNeutral ? data : data.filter(item => item.match !== "Neitrāli");
+    const total = filteredData.length || 1; // prevent division by zero
 
     const matchCounts = Object.keys(matchDescriptions).reduce((acc, key) => {
-      if (key !== "Neitrāli") {
-        acc[key] = data.filter(item => item.match === key).length;
+      if (showNeutral || key !== "Neitrāli") {
+        acc[key] = filteredData.filter(item => item.match === key).length;
       }
       return acc;
     }, {});
 
-    new Chart(ctx, {
+    // Destroy previous chart if any
+    if (window.currentChart) {
+        window.currentChart.destroy();
+    }
+
+    window.currentChart = new Chart(ctx, {
       type: 'bar',
       data: {
         labels: ['Sakritību sadalījums'],
