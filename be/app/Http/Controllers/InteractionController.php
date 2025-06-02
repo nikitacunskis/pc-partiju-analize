@@ -27,4 +27,28 @@ class InteractionController extends Controller
 
         return response()->json(['success' => true], 201);
     }
+    
+    public function dump(Request $request)
+    {
+        $providedKey = $request->query('api');
+        $expectedKey = env('API_ACCESS_KEY');
+
+        if($expectedKey === "your_secret_key_here") {
+            return response()->json(['error' => 'Change default key'], 403);
+        }
+
+        if ($providedKey !== $expectedKey) {
+            return response()->json(['error' => 'Unauthorized'], 403);
+        }
+
+        $interactions = Interaction::all();
+
+        $filename = 'interactions_dump_' . now()->format('Ymd_His') . '.json';
+
+        $content = $interactions->toJson(JSON_PRETTY_PRINT);
+
+        return response($content)
+            ->header('Content-Type', 'application/json')
+            ->header('Content-Disposition', 'attachment; filename="' . $filename . '"');
+    }
 }
