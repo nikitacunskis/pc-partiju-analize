@@ -1,72 +1,72 @@
 [
-    {
-      "subject": "Mājokļi un dzīvojamie kvartāli",
-      "problem": "Nepietiekams jaunu mājokļu piedāvājums un infrastruktūras trūkums jaunajām ģimenēm.",
-      "solution": "Attīstīt jaunu mājokļu programmu, mazstāvu projektu būvniecību un īres namus ar publiskā un privātā sektora līdzdalību; līdzfinansēt inženiertehnisko infrastruktūru un sagatavošanas izmaksas ēku siltināšanai un rekonstrukcijai.",
-      "match": "Neutral",
-      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis mājokļu un dzīvojamo kvartālu attīstības jautājumiem."
-    },
-    {
-      "subject": "Satiksme un stāvvietas",
-      "problem": "Sastrēgumi un nepietiekams stāvvietu skaits Rīgas centrā.",
-      "solution": "Atbalstīt daudzstāvu stāvvietu izbūvi transporta mezglos un dzelzceļa tuvumā, attīstīt mikromobilitāti un nodrošināt bezmaksas stāvvietas pirmajām 2 stundām un pēc plkst. 18.00, kā arī sestdienās.",
-      "match": "Full mismatch",
-      "explanation": "Saskan ar Program A 'Autonovietņu politika' tēmu, bet problēmas interpretācija un risinājums ir pretrunā ar Program A. Program A uzskata, ka problēma ir pārāk daudz bezmaksas stāvvietu un piedāvā paaugstināt stāvvietu cenas un samazināt to skaitu centrā, kamēr Program B piedāvā palielināt stāvvietu skaitu un nodrošināt bezmaksas stāvvietas."
-    },
-    {
-      "subject": "Tūrisms un komercvide",
-      "problem": "Samazināta ēdināšanas un tūrisma aktivitāte; degradēti īpašumi.",
-      "solution": "Novirzīt skatlogu programmas līdzekļus tūrisma piesaistei; atbalstīt tukšo telpu īpašniekus, lai atdzīvinātu pilsētvidi.",
-      "match": "Neutral",
-      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis tūrisma un komercvides jautājumiem."
-    },
-    {
-      "subject": "Iedzīvotāju līdzdalība un pilsētvides attīstība",
-      "problem": "Vāja iedzīvotāju iesaiste un piederības sajūta apkaimēs.",
-      "solution": "Ieviest apkaimju svētku grantu programmu un palielināt līdzdalības budžetu līdz 10 miljoniem; vienotas ūdensmalu attīstības stratēģijas izveide; multifunkcionāla sporta centra izveide Daugavas kreisajā krastā.",
-      "match": "Partly match",
-      "explanation": "Daļēji saskan ar Program A 'Pilsētas centra gājēju infrastruktūra' - risinājums (ūdensmalu attīstības stratēģija) daļēji saskan ar Program A minēto pievilcīgas ūdensmalas izveidi, bet Program B fokusējas vairāk uz iedzīvotāju līdzdalību un apkaimju attīstību, nevis specifiski uz gājēju infrastruktūru."
-    },
-    {
-      "subject": "Drošība un civilā aizsardzība",
-      "problem": "Zema drošības sajūta un nepietiekama civilās aizsardzības infrastruktūra.",
-      "solution": "Ieviest mobilu lietotni drošībai un civilai aizsardzībai; izstrādāt civilās aizsardzības plānus ar iedzīvotāju iesaisti; izveidot patvertņu tīklu un atbildīgo personu struktūru; modernizēt pašvaldības policiju un videonovērošanu; izgaismot mikrorajonus; drošības programmas stacijai un centrāltirgum; atbalsta sistēma ielu bērniem un atkarīgajiem jauniešiem.",
-      "match": "Neutral",
-      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis drošības un civilās aizsardzības jautājumiem."
-    },
-    {
-      "subject": "Pašvaldības pakalpojumi un birokrātija",
-      "problem": "Lēni, sarežģīti un birokrātiski pakalpojumi.",
-      "solution": "Samazināt birokrātiju, padarīt pakalpojumus ātrus un ērtus gan iedzīvotājiem, gan uzņēmējiem.",
-      "match": "Neutral",
-      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pašvaldības pakalpojumu un birokrātijas jautājumiem."
-    },
-    {
-      "subject": "Būvniecība un investīcijas",
-      "problem": "Neskaidri noteikumi kavē investīcijas un pakalpojumu attīstību.",
-      "solution": "Noteikt skaidrus būvniecības noteikumus, lai palielinātu investīcijas un uzlabotu pakalpojumus.",
-      "match": "Neutral",
-      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis būvniecības un investīciju jautājumiem."
-    },
-    {
-      "subject": "Siltumapgāde",
-      "problem": "Augsti siltuma tarifi un nesakārtota siltumapgādes sistēma.",
-      "solution": "Ieviest Rīgas siltuma kontrolpaketi, lai sakārtotu sistēmu un samazinātu tarifus.",
-      "match": "Neutral",
-      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis siltumapgādes jautājumiem."
-    },
-    {
-      "subject": "Sociālā aizsardzība un veselības aprūpe",
-      "problem": "Nepietiekams atbalsts pensionāriem, invalīdiem un trūcīgajām ģimenēm; ierobežota piekļuve veselības pakalpojumiem bērniem.",
-      "solution": "Palielināt atbalstu veselības aprūpei, segt pacienta līdzmaksājumus un ambulatorās izmaksas; piešķirt 100 EUR pabalstu izglītībai maznodrošinātajiem; piešķirt 500 EUR bērna piedzimšanas pabalstu; nodrošināt veselības pakalpojumus bērniem 24/7 režīmā.",
-      "match": "Neutral",
-      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sociālās aizsardzības un veselības aprūpes jautājumiem."
-    },
-    {
-      "subject": "Ģimeņu atbalsts un nodokļu atvieglojumi",
-      "problem": "Augstas izmaksas ģimenēm ar bērniem.",
-      "solution": "Ieviest 90% NĪN atlaides ģimenēm ar bērniem.",
-      "match": "Neutral",
-      "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis ģimeņu atbalsta un nodokļu atvieglojumu jautājumiem."
-    }
+  {
+    "subject": "Pašvaldības budžets un tēriņi",
+    "problem": "Nepietiekama caurspīdība un iespējama līdzekļu izšķērdēšana.",
+    "solution": "Veikt pilnu budžeta auditu, pārskatīt iepirkumus, apturēt nelietderīgus tēriņus, nodrošināt pilnīgu amata un finanšu caurspīdību.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis pašvaldības pārvaldes izmaiņām."
+  },
+  {
+    "subject": "Ģimeņu un bērnu atbalsts",
+    "problem": "Nepietiekams finansiālais atbalsts ģimenēm un bērniem.",
+    "solution": "Ieviest dzimšanas pabalstu 2000 eiro, ikmēneša bērnu pabalstus, brīvpusdienas, NĪN atbrīvojumu daudzbērnu ģimenēm, palielināt finansējumu pulciņiem.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sociālās labklājības uzlabošanu."
+  },
+  {
+    "subject": "Senioru un personu ar invaliditāti atbalsts",
+    "problem": "Ierobežota piekļuve medikamentiem un medicīnas pakalpojumiem.",
+    "solution": "Piešķirt ikmēneša pabalstus zāļu iegādei, nodrošināt bezmaksas medicīnas pakalpojumus pašvaldības iestādēs.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis veselības un sociālajiem pakalpojumiem."
+  },
+  {
+    "subject": "Sociālā aprūpe un resocializācija",
+    "problem": "Nepietiekams atbalsts ārpusģimenes aprūpes jauniešiem un paliatīvajiem pacientiem.",
+    "solution": "Piešķirt pabalstus aprūpētājiem, ieviest resocializācijas programmas.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sociālās labklājības pakalpojumiem."
+  },
+  {
+    "subject": "Uzņēmējdarbības veicināšana",
+    "problem": "Nepietiekams atbalsts vietējiem uzņēmējiem un zinātniekiem.",
+    "solution": "Ieviest lojalitātes programmu, organizēt tīklošanas forumu, izveidot zinātnes fondu, sadarboties ar augstskolām un uzņēmējiem.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis uzņēmējdarbības atbalstu."
+  },
+  {
+    "subject": "Vecrīgas attīstība",
+    "problem": "Vecrīgas ekonomiskā un kultūras stagnācija.",
+    "solution": "Izveidot tematiskos izziņas centrus, kas veicina tūrisma un vietējās uzņēmējdarbības attīstību.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis kultūras un tūrisma attīstību."
+  },
+  {
+    "subject": "Apkaimju un kultūras attīstība",
+    "problem": "Nepietiekama pieejamība kultūras, sporta un kopstrādes telpām.",
+    "solution": "Izveidot kultūras centrus ar kopstrādes telpām, paplašināt sporta skolu pakalpojumus un nodrošināt stadionus.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sabiedrības dzīves kvalitātes uzlabošanu."
+  },
+  {
+    "subject": "Digitālie pakalpojumi",
+    "problem": "Grūta piekļuve informācijai par pasākumiem un pakalpojumiem.",
+    "solution": "Izveidot vienotu Rīgas e-lietotni ar plašu funkcionalitāti.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis digitālo pakalpojumu attīstību."
+  },
+  {
+    "subject": "Publiskā vide un drošība",
+    "problem": "Nedrošas un nesakoptas sabiedriskās vietas.",
+    "solution": "Sakopt parkus, promenādes, nodrošināt drošību un vidi bez narkotikām.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis sabiedriskās kārtības un drošības jautājumiem."
+  },
+  {
+    "subject": "Mazākumtautību izglītība un kultūra",
+    "problem": "Ierobežotas iespējas mazākumtautībām saglabāt valodu un kultūru.",
+    "solution": "Nodrošināt pilnu apmācību mazākumtautību valodu un kultūru saglabāšanai skolās un PII.",
+    "match": "Neutral",
+    "explanation": "Šī tēma nav atrodama Program A, kas fokusējas uz transporta un mobilitātes infrastruktūru, nevis mazākumtautību izglītības un kultūras saglabāšanu."
+  }
 ]
