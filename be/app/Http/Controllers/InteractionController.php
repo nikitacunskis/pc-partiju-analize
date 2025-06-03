@@ -31,7 +31,7 @@ class InteractionController extends Controller
     public function dump(Request $request)
     {
         $providedKey = $request->query('api');
-        $expectedKey = env('API_ACCESS_KEY');
+        $expectedKey = config('app.api_access_key');
 
         if($expectedKey === "your_secret_key_here") {
             return response()->json(['error' => 'Change default key'], 403);
